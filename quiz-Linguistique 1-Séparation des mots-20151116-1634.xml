@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+        <text>$course$/Défaut pour L1-Grammaire/Grammaire/Gloses/Séparation des mots</text>
+
+    </category>
+  </question>
+
+<!-- question: 751951  -->
+  <question type="cloze">
+    <name>
+      <text>Amène-moi un ouvre-boîte de la cuisine</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<div style="text-align: left;">Séparer les mots de la phrase suivante par des espaces :</div><p><span class="rangySelectionBoundary" style="line-height: 0; display: none;" id="selectionBoundary_1447669145881_3476167843452228">﻿</span><span class="rangySelectionBoundary" style="line-height: 0; display: none;" id="selectionBoundary_1447669145881_8243999047807338">﻿</span><span class="rangySelectionBoundary" style="line-height: 0; display: none;" id="selectionBoundary_1447682625262_13063543029865088">﻿</span>amɛnmwaœ̃nuvʁəbwatdəlakɥizin<br>{4:RX:=amɛnmwa œ̃n uvʁəbwat də la kɥizin~^([^ ]+ +)?([^ ]+ +)?[^ ]+$#Il y a plus de mots~^([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)?[^ ]+$#Il y a moins de mots~--.* uvʁəbwat .*#Attention au nom composé.~%25%--.* kɥizin#Il reste un nom facile à identifier.~%50%--.* œ̃n .*#Attention à la liaison avec l'indéfini.~%75%--amɛnmwa .*#Attention au <a href="https://fr.wikipedia.org/wiki/Clitique" style="color:blue">
+clitique</a> datif qui forme un seul mot avec le verbe conjugué.}<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+
+<!-- question: 751947  -->
+  <question type="cloze">
+    <name>
+      <text>Cet enfant est arrivé au lycée en bus</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<div style="text-align: center;"><br></div><p>Séparer les mots de la phrase suivante par des espaces :</p><p><span class="rangySelectionBoundary" style="line-height: 0; display: none;" id="selectionBoundary_1447679323613_32432447449202206">﻿</span><span class="rangySelectionBoundary" style="line-height: 0; display: none;" id="selectionBoundary_1447679323612_7949189969617236">﻿</span>sɛtɑ̃fɑ̃ɛtaʁiveoliseɑ̃bys<br>{4:RX:=sɛt ɑ̃fɑ̃ ɛt aʁive o lise ɑ̃ bys~^([^ ]+ +)?([^ ]+ +)?([^ ]+ +)?[^ ]+$#Il y a plus de mots~^([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)?[^ ]+$#Il y a moins de mots~--.*(&amp;&amp; ɑ̃fɑ̃ &amp;&amp; aʁive &amp;&amp; lise &amp;&amp; bys).*#Il
+ y a au moins quatre 
+mots simples faciles à identifier : trois noms et un verbe .~--.*sɛt .*#Attention au démonstratif.~--.* ɛt .*#Attention à la liaison avec le verbe.}<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+
+<!-- question: 751949  -->
+  <question type="cloze">
+    <name>
+      <text>De la sauce est tombée de la louche sur ses chaussures</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<div style="text-align: center;"><br></div><p>Séparer les mots de la phrase suivante par des espaces :</p><p><span class="rangySelectionBoundary" style="line-height: 0; display: none;" id="selectionBoundary_1447679323613_32432447449202206">﻿</span><span class="rangySelectionBoundary" style="line-height: 0; display: none;" id="selectionBoundary_1447679323612_7949189969617236">﻿</span><span class="rangySelectionBoundary" style="line-height: 0; display: none;" id="selectionBoundary_1447681292109_17065332703324654">﻿</span>dəlasosɛtɔ̃bedəlaluʃsyʁseʃosyʁ<span class="rangySelectionBoundary" style="line-height: 0; display: none;" id="selectionBoundary_1447681292108_7944647665615874">﻿</span><br>{4:RX:=dəla sos ɛ tɔ̃be də la luʃ syʁ se ʃosyʁ~^([^ ]+ +)?([^ ]+ +)?([^ ]+ +)?([^ ]+ +)?([^ ]+ +)?([^ ]+ +)?[^ ]+$#Il y a plus de mots~^([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)?[^ ]+$#Il y a moins de mots~--.*(&amp;&amp; sos &amp;&amp; tɔ̃be &amp;&amp; luʃ &amp;&amp; ʃosyʁ).*#Il
+ y a au moins quatre 
+mots simples faciles à identifier : trois noms et un verbe .~--.* syʁ .*#Attention à la préposition locative.~--dəla sos.*#Attention au partitif.~--.* də la luʃ.*#Attention à la préposition.}<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+
+<!-- question: 751945  -->
+  <question type="cloze">
+    <name>
+      <text>Deux amis se sont assis au bar</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<div style="text-align: left;">Séparer les mots de la phrase suivante par des espaces :</div><p><span class="rangySelectionBoundary" style="line-height: 0; display: none;" id="selectionBoundary_1447669145881_3476167843452228">﻿</span><span class="rangySelectionBoundary" style="line-height: 0; display: none;" id="selectionBoundary_1447669145881_8243999047807338">﻿</span>døzamisəsɔ̃tasiobaʁ<br>{4:RX:=døz ami səsɔ̃t asi o baʁ~^([^ ]+ +)?([^ ]+ +)?[^ ]+$#Il y a plus de mots~^([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)?[^ ]+$#Il y a moins de mots~--.*(&amp;&amp; ami &amp;&amp; asi &amp;&amp; baʁ).*#Il
+ y a au moins trois 
+mots simples faciles à identifier : deux noms et un verbe.~--.*døz.*#Attention à la liaison avec le numéral.~--.*sɔ̃t .*#Attention à la liaison avec le verbe.~--.* səsɔ̃t .*#Attention au <a href="https://fr.wikipedia.org/wiki/Clitique" style="color:blue">
+clitique</a> réfléchi qui forme un seul mot avec le verbe conjugué.}<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+
+<!-- question: 751953  -->
+  <question type="cloze">
+    <name>
+      <text>Émilie l'a mise dans son pot-au-feu ce matin</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<div style="text-align: left;">Séparer les mots de la phrase suivante par des espaces :</div><p><span class="rangySelectionBoundary" style="line-height: 0; display: none;" id="selectionBoundary_1447669145881_3476167843452228">﻿</span><span class="rangySelectionBoundary" style="line-height: 0; display: none;" id="selectionBoundary_1447669145881_8243999047807338">﻿</span><span class="rangySelectionBoundary" style="line-height: 0; display: none;" id="selectionBoundary_1447684331183_9411887490560428">﻿</span>emililamizdɑ̃sɔ̃potoføsəmatɛ̃<span class="rangySelectionBoundary" style="line-height: 0; display: none;" id="selectionBoundary_1447684713123_706710092221756">﻿</span><br>{4:RX:=emili la miz dɑ̃ sɔ̃ potofø sə matɛ̃~^([^ ]+ +)?([^ ]+ +)?([^ ]+ +)?([^ ]+ +)?[^ ]+$#Il y a plus de mots~^([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)*[^ ]+$#Il y a moins de mots~--.*(&amp;&amp;emili &amp;&amp; miz &amp;&amp; matɛ̃).*#Il
+ y a au moins trois 
+mots faciles à identifier : deux noms et un verbe.~--.* potofø .*#Attention au nom composé.~--.* dɑ̃ .*#Attention à la forme de la préposition.~--.* sɔ̃ .*#Attention à la forme du possessif.~--.* la .*#Attention au <a href="https://fr.wikipedia.org/wiki/Clitique" style="color:blue">
+clitique</a> objet qui forme un seul mot avec le verbe conjugué.}<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+
+<!-- question: 751932  -->
+  <question type="cloze">
+    <name>
+      <text>Les étudiants n'arrivent pas en avance</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<div style="text-align: center;"><br></div><p>Séparer les mots de la phrase suivante par des espaces :</p><p>lezetydjɑ̃naʁivpaɑ̃navɑ̃s<br>{4:RX:=lez etydjɑ̃ naʁiv pa ɑ̃n avɑ̃s~^([^ ]+ +)?([^ ]+ +)?[^ ]+$#Il y a plus de mots~^([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)?[^ ]+$#Il y a moins de mots~--.*(&amp;&amp; etydjɑ̃ &amp;&amp; pa &amp;&amp; avɑ̃s).*#Il
+ y a au moins trois 
+mots simples faciles à identifier : deux noms et une 
+négation.~--.*lez .*#Attention au défini 
+pluriel.~--.* ɑ̃n .*#Attention à la liaison de la préposition.~--.* naʁiv .*#Attention, la négation préverbale est un <a href="https://fr.wikipedia.org/wiki/Clitique" style="color:blue">
+clitique</a> pour les verbes conjugués.}<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+
+<!-- question: 751955  -->
+  <question type="cloze">
+    <name>
+      <text>Son idée saugrenue ne vient pas de moi</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<div style="text-align: left;">Séparer les mots de la phrase suivante par des espaces :</div><p><span class="rangySelectionBoundary" style="line-height: 0; display: none;" id="selectionBoundary_1447669145881_3476167843452228">﻿</span><span class="rangySelectionBoundary" style="line-height: 0; display: none;" id="selectionBoundary_1447669145881_8243999047807338">﻿</span><span class="rangySelectionBoundary" style="line-height: 0; display: none;" id="selectionBoundary_1447684331183_9411887490560428">﻿</span><span class="rangySelectionBoundary" style="line-height: 0; display: none;" id="selectionBoundary_1447685644821_25708408217872625">﻿</span>sɔ̃nidesogʁənynəvjɛ̃padəmwa<br>{4:RX:=sɔ̃n ide sogʁəny nəvjɛ̃ pa də mwa~^([^ ]+ +)?([^ ]+ +)?([^ ]+ +)?([^ ]+ +)?[^ ]+$#Il y a plus de mots~^([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)*[^ ]+$#Il y a moins de mots~--.*(&amp;&amp; ide &amp;&amp; sogʁəny &amp;&amp; mwa).*#Il
+ y a au moins trois 
+mots faciles à identifier : un nom, un adjectif et un pronom.~--sɔ̃n .*#Attention au possessif.~--.* pa .*#Attention à la négation post-verbale.~--.* nəvjɛ̃ .*#Attention la négation pré-verbale qui est <a href="https://fr.wikipedia.org/wiki/Clitique" style="color:blue">
+clitique</a> pour les verbes conjugués.}<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+
+<!-- question: 751935  -->
+  <question type="cloze">
+    <name>
+      <text>Un savant anglais me l'a dit</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<div style="text-align: center;"><br></div><p>Séparer les mots de la phrase suivante par des espaces :</p><p><span class="rangySelectionBoundary" style="line-height: 0; display: none;" id="selectionBoundary_1447669145881_3476167843452228">﻿</span><span class="rangySelectionBoundary" style="line-height: 0; display: none;" id="selectionBoundary_1447669145881_8243999047807338">﻿</span>œ̃savɑ̃tɑ̃glɛməladi<br>{4:RX:=œ̃ savɑ̃t ɑ̃glɛ məla di~^([^ ]+ +)?[^ ]+$#Il y a plus de mots~^([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)?[^ ]+$#Il y a moins de mots~--.*(&amp;&amp; savɑ̃t &amp;&amp; ɑ̃glɛ &amp;&amp; di).*#Il
+ y a au moins trois 
+mots simples faciles à identifier : un adjectif, un nom et un verbe.~--.*la di#Attention au <a href="https://fr.wikipedia.org/wiki/Clitique" style="color:blue">
+clitique</a> objet qui forme un seul mot avec le verbe conjugué.~--.*məla .*#Attention au <a href="https://fr.wikipedia.org/wiki/Clitique" style="color:blue">
+clitique</a> datif qui fait partie du verbe conjugué.}<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+
+</quiz>

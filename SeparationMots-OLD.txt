@@ -1,0 +1,54 @@
+#EXM;Amène-moi un ouvre-boîte de la cuisine.
+amɛnmwa œ̃n uvʁəbwat də la kɥizin
+--.* uvʁəbwat .*#Attention au nom composé.
+%25%--.* kɥizin#Il reste un nom facile à identifier.
+%50%--.* œ̃n .*#Attention à la liaison avec l'indéfini.
+%75%--amɛnmwa .*#Attention au clitique datif qui forme un seul mot avec le verbe conjugué.
+
+#EXM;Cet enfant est arrivé au lycée en bus.
+sɛt ɑ̃fɑ̃ ɛt aʁive o lise ɑ̃ bys
+--.*(&& ɑ̃fɑ̃ && aʁive && lise && bys).*#Il y a au moins quatre mots simples faciles à identifier : trois noms et un verbe .
+%50%--.*sɛt .*#Attention au démonstratif.
+%75%--.* ɛt .*#Attention à la liaison avec le verbe.
+
+#EXM;De la sauce est tombée de la louche sur ses chaussures.
+dəla sos ɛ tɔ̃be də la luʃ syʁ se ʃosyʁ
+--.*(&& sos && tɔ̃be && luʃ && ʃosyʁ).*#Il y a au moins quatre mots simples faciles à identifier : trois noms et un verbe .
+%25%--.* syʁ .*#Attention à la préposition locative.
+%50%--dəla sos.*#Attention au partitif.
+%75%--.* də la luʃ.*#Attention à la préposition.
+
+#EXM;Deux amis se sont assis au bar.
+døz ami səsɔ̃t asi o baʁ
+--.*(&& ami && asi && baʁ).*#Il y a au moins trois mots simples faciles à identifier : deux noms et un verbe.
+%25%--.*døz.*#Attention à la liaison avec le numéral.
+%50%--.*sɔ̃t .*#Attention à la liaison avec le verbe.
+%75%--.* səsɔ̃t .*#Attention au clitique réfléchi qui forme un seul mot avec le verbe conjugué.
+
+#EXM;Émilie l'a mise dans pot-au-feu ce matin.
+emili la miz dɑ̃ sɔ̃ potofø sə matɛ̃
+--.*(&&emili && miz && matɛ̃).*#Il y a au moins trois mots faciles à identifier : deux noms et un verbe.
+%25%--.* potofø .*#Attention au nom composé.
+%50%--.*(&& dɑ̃ && sɔ̃ ).*#Attention à la forme de la préposition et du possessif.
+%75%--.* la .*#Attention au clitique objet qui forme un seul mot avec le verbe conjugué.
+
+#EXM;Les étudiants n'arrivent pas en avance.
+lez etydjɑ̃ naʁiv pa ɑ̃n avɑ̃s
+--.*(&& etydjɑ̃ && pa && avɑ̃s).*#Il y a au moins trois mots simples faciles à identifier : deux noms et une négation.
+%25%--.*lez .*#Attention au défini pluriel.
+%50%--.* ɑ̃n .*#Attention à la liaison de la préposition.
+%75%--.* naʁiv .*#Attention, la négation préverbale est un clitique pour les verbes conjugués.
+
+#EXM;Son idée saugrenue ne vient pas de moi.
+sɔ̃n ide sogʁəny nəvjɛ̃ pa də mwa
+--.*(&& ide && sogʁəny && mwa).*#Il y a au moins trois mots faciles à identifier : un nom, un adjectif et un pronom.
+%25%--sɔ̃n .*#Attention au possessif.
+%50%--.* pa .*#Attention à la négation post-verbale.
+%75%--.* nəvjɛ̃ .*#Attention la négation pré-verbale qui est clitique pour les verbes conjugués.
+
+#EXM;Un savant anglais me l'a dit.
+œ̃ savɑ̃t ɑ̃glɛ məla di
+--.*(&& ɑ̃glɛ && di).*#Il y a au moins deux mots simples faciles à identifier : un nom et un verbe.
+%25%--.* savɑ̃t .*#Attention à la forme de l'adjectif.
+%50%--.*la di#Attention au clitique objet qui forme un seul mot avec le verbe conjugué.
+%75%--.*məla .*#Attention au clitique datif qui fait partie du verbe conjugué.

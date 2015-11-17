@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<question type="category">
+<category>
+<text>
+Gloses/Séparation des mots/Simple
+</text>
+</category>
+</question><question type="cloze">
+<name><text>Amène-moi un ouvre-boîte de la cuisine.</text></name>
+<questiontext><text><![CDATA[Séparez les mots de la phrase suivante par des espaces :<br/>amɛnmwaœ̃nuvʁəbwatdəlakɥizin<br/>{1:RXC:=amɛnmwa œ̃n uvʁəbwat də la kɥizin#Bravo ! La phrase était : Amène-moi un ouvre-boîte de la cuisine.~^([^ ]+ +)?([^ ]+ +)?[^ ]+$#Il y a plus de mots~^([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)*[^ ]+$#Il y a moins de mots~--.* kɥizin#Il y a un nom facile à identifier.~%25%--.* uvʁəbwat .*#Attention au nom composé.~%50%--.* œ̃n .*#Attention à la <a href="https://fr.wikipedia.org/wiki/Liaison_en_français" target="_blank" style="color:blue">liaison</a> avec l'indéfini.~%75%--amɛnmwa .*#Attention au <a href="https://fr.wikipedia.org/wiki/clitique" target="_blank" style="color:blue">clitique</a> <a href="https://fr.wikipedia.org/wiki/datif" target="_blank" style="color:blue">datif</a> qui forme un seul mot avec le verbe conjugué.}]]></text></questiontext>
+<generalfeedback><text>Bien reçu.</text></generalfeedback>
+<shuffleanswers>1</shuffleanswers>
+<penalty>0.1000000</penalty>
+</question><question type="cloze">
+<name><text>Cet enfant est arrivé au lycée en bus.</text></name>
+<questiontext><text><![CDATA[Séparez les mots de la phrase suivante par des espaces :<br/>sɛtɑ̃fɑ̃ɛtaʁiveoliseɑ̃bys<br/>{1:RXC:=sɛt ɑ̃fɑ̃ ɛt aʁive o lise ɑ̃ bys#Bravo ! La phrase était : Cet enfant est arrivé au lycée en bus.~^([^ ]+ +)?([^ ]+ +)?([^ ]+ +)?([^ ]+ +)?[^ ]+$#Il y a plus de mots~^([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)*[^ ]+$#Il y a moins de mots~--.*(&& ɑ̃fɑ̃ && aʁive && lise && bys).*#Il y a au moins quatre mots simples faciles à identifier : trois noms et un verbe .~%40%--.*sɛt .*#Attention au <a href="https://fr.wikipedia.org/wiki/Adjectif_démonstratif" target="_blank" style="color:blue">démonstratif</a>.~%75%--.* ɛt .*#Attention à la <a href="https://fr.wikipedia.org/wiki/Liaison_en_français" target="_blank" style="color:blue">liaison</a> avec le verbe.}]]></text></questiontext>
+<generalfeedback><text>Bien reçu.</text></generalfeedback>
+<shuffleanswers>1</shuffleanswers>
+<penalty>0.1000000</penalty>
+</question><question type="cloze">
+<name><text>De la sauce est tombée de la louche sur ses chaussures.</text></name>
+<questiontext><text><![CDATA[Séparez les mots de la phrase suivante par des espaces :<br/>dəlasosɛtɔ̃bedəlaluʃsyʁseʃosyʁ<br/>{1:RXC:=dəla sos ɛ tɔ̃be də la luʃ syʁ se ʃosyʁ#Bravo ! La phrase était : De la sauce est tombée de la louche sur ses chaussures.~^([^ ]+ +)?([^ ]+ +)?([^ ]+ +)?([^ ]+ +)?([^ ]+ +)?([^ ]+ +)?[^ ]+$#Il y a plus de mots~^([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)*[^ ]+$#Il y a moins de mots~--.*(&& sos && tɔ̃be && luʃ && ʃosyʁ).*#Il y a au moins quatre mots simples faciles à identifier : trois noms et un verbe .~%25%--.* syʁ .*#Attention à la <a href="https://fr.wikipedia.org/wiki/préposition" target="_blank" style="color:blue">préposition</a> locative.~%50%--dəla sos.*#Attention au <a href="https://fr.wikipedia.org/wiki/Article_partitif" target="_blank" style="color:blue">partitif</a>.~%75%--.* də la luʃ.*#Attention à la <a href="https://fr.wikipedia.org/wiki/préposition" target="_blank" style="color:blue">préposition</a>.}]]></text></questiontext>
+<generalfeedback><text>Bien reçu.</text></generalfeedback>
+<shuffleanswers>1</shuffleanswers>
+<penalty>0.1000000</penalty>
+</question><question type="cloze">
+<name><text>Deux amis se sont assis au bar.</text></name>
+<questiontext><text><![CDATA[Séparez les mots de la phrase suivante par des espaces :<br/>døzamisəsɔ̃tasiobaʁ<br/>{1:RXC:=døz ami səsɔ̃t asi o baʁ#Bravo ! La phrase était : Deux amis se sont assis au bar.~^([^ ]+ +)?([^ ]+ +)?[^ ]+$#Il y a plus de mots~^([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)*[^ ]+$#Il y a moins de mots~--.*(&& ami && asi && baʁ).*#Il y a au moins trois mots simples faciles à identifier : deux noms et un verbe.~%25%--.*døz.*#Attention à la <a href="https://fr.wikipedia.org/wiki/Liaison_en_français" target="_blank" style="color:blue">liaison</a> avec le numéral.~%50%--.*sɔ̃t .*#Attention à la <a href="https://fr.wikipedia.org/wiki/Liaison_en_français" target="_blank" style="color:blue">liaison</a> avec le verbe.~%75%--.* səsɔ̃t .*#Attention au <a href="https://fr.wikipedia.org/wiki/clitique" target="_blank" style="color:blue">clitique</a> <a href="https://fr.wikipedia.org/wiki/Morphologie_du_pronom_personnel_en_français#Pronom_r.C3.A9fl.C3.A9chi_et_pronom_non_r.C3.A9fl.C3.A9chi" target="_blank" style="color:blue">réfléchi</a> qui forme un seul mot avec le verbe conjugué.}]]></text></questiontext>
+<generalfeedback><text>Bien reçu.</text></generalfeedback>
+<shuffleanswers>1</shuffleanswers>
+<penalty>0.1000000</penalty>
+</question><question type="cloze">
+<name><text>Émilie l'a mise dans pot-au-feu ce matin.</text></name>
+<questiontext><text><![CDATA[Séparez les mots de la phrase suivante par des espaces :<br/>emililamizdɑ̃sɔ̃potoføsəmatɛ̃<br/>{1:RXC:=emili la miz dɑ̃ sɔ̃ potofø sə matɛ̃#Bravo ! La phrase était : Émilie l'a mise dans pot-au-feu ce matin.~^([^ ]+ +)?([^ ]+ +)?([^ ]+ +)?([^ ]+ +)?[^ ]+$#Il y a plus de mots~^([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)*[^ ]+$#Il y a moins de mots~--.*(&&emili && miz && matɛ̃).*#Il y a au moins trois mots faciles à identifier : deux noms et un verbe.~%25%--.* potofø .*#Attention au nom composé.~%50%--.*(&& dɑ̃ && sɔ̃ ).*#Attention à la forme de la <a href="https://fr.wikipedia.org/wiki/préposition" target="_blank" style="color:blue">préposition</a> et du <a href="https://fr.wikipedia.org/wiki/possessif" target="_blank" style="color:blue">possessif</a>.~%75%--.* la .*#Attention au <a href="https://fr.wikipedia.org/wiki/clitique" target="_blank" style="color:blue">clitique</a> objet qui forme un seul mot avec le verbe conjugué.}]]></text></questiontext>
+<generalfeedback><text>Bien reçu.</text></generalfeedback>
+<shuffleanswers>1</shuffleanswers>
+<penalty>0.1000000</penalty>
+</question><question type="cloze">
+<name><text>Les étudiants n'arrivent pas en avance.</text></name>
+<questiontext><text><![CDATA[Séparez les mots de la phrase suivante par des espaces :<br/>lezetydjɑ̃naʁivpaɑ̃navɑ̃s<br/>{1:RXC:=lez etydjɑ̃ naʁiv pa ɑ̃n avɑ̃s#Bravo ! La phrase était : Les étudiants n'arrivent pas en avance.~^([^ ]+ +)?([^ ]+ +)?[^ ]+$#Il y a plus de mots~^([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)*[^ ]+$#Il y a moins de mots~--.*(&& etydjɑ̃ && pa && avɑ̃s).*#Il y a au moins trois mots simples faciles à identifier : deux noms et une négation.~%25%--.*lez .*#Attention au défini pluriel.~%50%--.* ɑ̃n .*#Attention à la <a href="https://fr.wikipedia.org/wiki/Liaison_en_français" target="_blank" style="color:blue">liaison</a> de la <a href="https://fr.wikipedia.org/wiki/préposition" target="_blank" style="color:blue">préposition</a>.~%75%--.* naʁiv .*#Attention, la négation préverbale est un <a href="https://fr.wikipedia.org/wiki/clitique" target="_blank" style="color:blue">clitique</a> pour les verbes conjugués.}]]></text></questiontext>
+<generalfeedback><text>Bien reçu.</text></generalfeedback>
+<shuffleanswers>1</shuffleanswers>
+<penalty>0.1000000</penalty>
+</question><question type="cloze">
+<name><text>Son idée saugrenue ne vient pas de moi.</text></name>
+<questiontext><text><![CDATA[Séparez les mots de la phrase suivante par des espaces :<br/>sɔ̃nidesogʁənynəvjɛ̃padəmwa<br/>{1:RXC:=sɔ̃n ide sogʁəny nəvjɛ̃ pa də mwa#Bravo ! La phrase était : Son idée saugrenue ne vient pas de moi.~^([^ ]+ +)?([^ ]+ +)?([^ ]+ +)?[^ ]+$#Il y a plus de mots~^([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)*[^ ]+$#Il y a moins de mots~--.*(&& ide && sogʁəny && mwa).*#Il y a au moins trois mots faciles à identifier : un nom, un adjectif et un pronom.~%25%--sɔ̃n .*#Attention au <a href="https://fr.wikipedia.org/wiki/possessif" target="_blank" style="color:blue">possessif</a>.~%50%--.* pa .*#Attention à la négation post-verbale.~%75%--.* nəvjɛ̃ .*#Attention la négation pré-verbale qui est <a href="https://fr.wikipedia.org/wiki/clitique" target="_blank" style="color:blue">clitique</a> pour les verbes conjugués.}]]></text></questiontext>
+<generalfeedback><text>Bien reçu.</text></generalfeedback>
+<shuffleanswers>1</shuffleanswers>
+<penalty>0.1000000</penalty>
+</question><question type="cloze">
+<name><text>Un savant anglais me l'a dit.</text></name>
+<questiontext><text><![CDATA[Séparez les mots de la phrase suivante par des espaces :<br/>œ̃savɑ̃tɑ̃glɛməladi<br/>{1:RXC:=œ̃ savɑ̃t ɑ̃glɛ məla di#Bravo ! La phrase était : Un savant anglais me l'a dit.~^([^ ]+ +)?[^ ]+$#Il y a plus de mots~^([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)*[^ ]+$#Il y a moins de mots~--.*(&& ɑ̃glɛ && di).*#Il y a au moins deux mots simples faciles à identifier : un nom et un verbe.~%25%--.* savɑ̃t .*#Attention à la forme de l'adjectif.~%50%--.*la di#Attention au <a href="https://fr.wikipedia.org/wiki/clitique" target="_blank" style="color:blue">clitique</a> objet qui forme un seul mot avec le verbe conjugué.~%75%--.* məla .*#Attention au <a href="https://fr.wikipedia.org/wiki/clitique" target="_blank" style="color:blue">clitique</a> <a href="https://fr.wikipedia.org/wiki/datif" target="_blank" style="color:blue">datif</a> qui fait partie du verbe conjugué.}]]></text></questiontext>
+<generalfeedback><text>Bien reçu.</text></generalfeedback>
+<shuffleanswers>1</shuffleanswers>
+<penalty>0.1000000</penalty>
+</question><question type="cloze">
+<name><text>Camille en a mis partout sur tes affaires.</text></name>
+<questiontext><text><![CDATA[Séparez les mots de la phrase suivante par des espaces :<br/>kamijɑ̃namipaʁtusyʁtezafɛʁ<br/>{1:RXC:=kamij ɑ̃na mi paʁtu syʁ tez afɛʁ#Bravo ! La phrase était : Camille en a mis partout sur tes affaires.~^([^ ]+ +)?([^ ]+ +)?([^ ]+ +)?[^ ]+$#Il y a plus de mots~^([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)*[^ ]+$#Il y a moins de mots~--.*(&&kamij && mi && afɛʁ).*#Il y a au moins trois mots simples faciles à identifier : deux noms et un verbe.~%25%--.* paʁtu .*#Attention à l'adverbe.~%50%--.* tez .*#Attention à la forme du <a href="https://fr.wikipedia.org/wiki/possessif" target="_blank" style="color:blue">possessif</a>.~%75%--.* ɑ̃na .*#Attention au <a href="https://fr.wikipedia.org/wiki/clitique" target="_blank" style="color:blue">clitique</a> objet qui fait partie du verbe conjugué.}]]></text></questiontext>
+<generalfeedback><text>Bien reçu.</text></generalfeedback>
+<shuffleanswers>1</shuffleanswers>
+<penalty>0.1000000</penalty>
+</question><question type="cloze">
+<name><text>Donne-le-lui avant le début de la deuxième mi-temps.</text></name>
+<questiontext><text><![CDATA[Séparez les mots de la phrase suivante par des espaces :<br/>dɔnləlɥiavɑ̃lədebydəladøzjɛmmitɑ̃<br/>{1:RXC:=dɔnləlɥi avɑ̃ lə deby də la døzjɛm mitɑ̃#Bravo ! La phrase était : Donne-le-lui avant le début de la deuxième mi-temps.~^([^ ]+ +)?([^ ]+ +)?([^ ]+ +)?([^ ]+ +)?[^ ]+$#Il y a plus de mots~^([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)*[^ ]+$#Il y a moins de mots~--.*(&& deby && døzjɛm && avɑ̃).*#Il y a au moins trois mots simples faciles à identifier : une <a href="https://fr.wikipedia.org/wiki/préposition" target="_blank" style="color:blue">préposition</a>, un nom et un adjectif.~%25%--.* mitɑ̃#Attention au nom composé.~%50%--dɔnlə.*#Attention au <a href="https://fr.wikipedia.org/wiki/clitique" target="_blank" style="color:blue">clitique</a> objet qui forme un seul mot avec le verbe conjugué.~%75%--dɔnləlɥi .*#Attention au <a href="https://fr.wikipedia.org/wiki/clitique" target="_blank" style="color:blue">clitique</a> <a href="https://fr.wikipedia.org/wiki/datif" target="_blank" style="color:blue">datif</a> qui forme un seul mot avec le verbe conjugué.}]]></text></questiontext>
+<generalfeedback><text>Bien reçu.</text></generalfeedback>
+<shuffleanswers>1</shuffleanswers>
+<penalty>0.1000000</penalty>
+</question><question type="cloze">
+<name><text>Vas le lui dire en face aux yeux de tout le monde.</text></name>
+<questiontext><text><![CDATA[Séparez les mots de la phrase suivante par des espaces :<br/>valəlɥidiʁɑ̃fasozjødətuləmɔ̃d<br/>{1:RXC:=va ləlɥidiʁ ɑ̃ fas oz jø də tu lə mɔ̃d#Bravo ! La phrase était : Vas le lui dire en face aux yeux de tout le monde.~^([^ ]+ +)?([^ ]+ +)?([^ ]+ +)?([^ ]+ +)?([^ ]+ +)?([^ ]+ +)?[^ ]+$#Il y a plus de mots~^([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)*[^ ]+$#Il y a moins de mots~--.*(&& fas && tu && mɔ̃d).*#Il y a au moins trois mots simples faciles à identifier : deux noms et un adverbe.~%25%--.*(&&va && jø ).*#Attention au verbe conjugué et au nom irrégulier.~%50%--.*lɥidiʁ.*#Attention au <a href="https://fr.wikipedia.org/wiki/clitique" target="_blank" style="color:blue">clitique</a> <a href="https://fr.wikipedia.org/wiki/datif" target="_blank" style="color:blue">datif</a> qui forme un seul mot avec le verbe.~%75%--.* ləlɥidiʁ .*#Attention au <a href="https://fr.wikipedia.org/wiki/clitique" target="_blank" style="color:blue">clitique</a> objet qui forme un seul mot avec le verbe.}]]></text></questiontext>
+<generalfeedback><text>Bien reçu.</text></generalfeedback>
+<shuffleanswers>1</shuffleanswers>
+<penalty>0.1000000</penalty>
+</question><question type="cloze">
+<name><text>Laisse-moi la regarder chanter ce poème aujourd'hui.</text></name>
+<questiontext><text><![CDATA[Séparez les mots de la phrase suivante par des espaces :<br/>lɛsmwalaʁəgaʁdeʃɑ̃tesəpoɛmoʒuʁdɥi<br/>{1:RXC:=lɛsmwa laʁəgaʁde ʃɑ̃te sə poɛm oʒuʁdɥi#Bravo ! La phrase était : Laisse-moi la regarder chanter ce poème aujourd'hui.~^([^ ]+ +)?([^ ]+ +)?[^ ]+$#Il y a plus de mots~^([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)*[^ ]+$#Il y a moins de mots~--.*(&& ʃɑ̃te && poɛm ).*#Il y a au moins deux mots simples faciles à identifier : un nom et un verbe.~%25%--.*(&& sə && oʒuʁdɥi).*#Attention au <a href="https://fr.wikipedia.org/wiki/Adjectif_démonstratif" target="_blank" style="color:blue">démonstratif</a> et au nom composé.~%50%--.*lɛsmwa .*#Attention au <a href="https://fr.wikipedia.org/wiki/clitique" target="_blank" style="color:blue">clitique</a> <a href="https://fr.wikipedia.org/wiki/datif" target="_blank" style="color:blue">datif</a> qui forme un seul mot avec le verbe conjugué.~%75%--.* laʁəgaʁde .*#Attention au <a href="https://fr.wikipedia.org/wiki/clitique" target="_blank" style="color:blue">clitique</a> objet qui forme un seul mot avec le verbe.}]]></text></questiontext>
+<generalfeedback><text>Bien reçu.</text></generalfeedback>
+<shuffleanswers>1</shuffleanswers>
+<penalty>0.1000000</penalty>
+</question><question type="cloze">
+<name><text>J'en ai pris pour mon grade avec tes bêtises pendant les vacances.</text></name>
+<questiontext><text><![CDATA[Séparez les mots de la phrase suivante par des espaces :<br/>ʒɑ̃nɛpʁipuʁmɔ̃gʁadavɛktebetizpɑ̃dɑ̃levakɑ̃s<br/>{1:RXC:=ʒɑ̃nɛ pʁi puʁ mɔ̃ gʁad avɛk te betiz pɑ̃dɑ̃ le vakɑ̃s#Bravo ! La phrase était : J'en ai pris pour mon grade avec tes bêtises pendant les vacances.~^([^ ]+ +)?([^ ]+ +)?([^ ]+ +)?([^ ]+ +)?([^ ]+ +)?([^ ]+ +)?([^ ]+ +)?[^ ]+$#Il y a plus de mots~^([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)*[^ ]+$#Il y a moins de mots~--.*(&& pʁi && gʁad && betiz && vakɑ̃s).*#Il y a au moins quatre mots simples faciles à identifier : trois noms et un verbe.~%25%--.*(&& puʁ && avɛk && pɑ̃dɑ̃ ).*#Attention aux <a href="https://fr.wikipedia.org/wiki/préposition" target="_blank" style="color:blue">préposition</a>s.~%50%--.*ɑ̃nɛ.*#Attention au <a href="https://fr.wikipedia.org/wiki/clitique" target="_blank" style="color:blue">clitique</a> objet qui forme un seul mot avec le verbe conjugué.~%75%--ʒɑ̃nɛ .*#Attention au <a href="https://fr.wikipedia.org/wiki/clitique" target="_blank" style="color:blue">clitique</a> sujet qui forme un seul mot avec le verbe conjugué.}]]></text></questiontext>
+<generalfeedback><text>Bien reçu.</text></generalfeedback>
+<shuffleanswers>1</shuffleanswers>
+<penalty>0.1000000</penalty>
+</question><question type="cloze">
+<name><text>Prends-le avec toi pour tes escapades italiennes.</text></name>
+<questiontext><text><![CDATA[Séparez les mots de la phrase suivante par des espaces :<br/>pʁɑ̃ləavɛktwapuʁtezɛskapadzitaljɛn<br/>{1:RXC:=pʁɑ̃lə avɛk twa puʁ tez ɛskapadz italjɛn#Bravo ! La phrase était : Prends-le avec toi pour tes escapades italiennes.~^([^ ]+ +)?([^ ]+ +)?([^ ]+ +)?[^ ]+$#Il y a plus de mots~^([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)*[^ ]+$#Il y a moins de mots~--.*(&& twa && italjɛn).*#Il y a au moins deux mots simples faciles à identifier : un pronom et un adjectif.~%25%--.*(&& avɛk && puʁ ).*#Attention aux <a href="https://fr.wikipedia.org/wiki/préposition" target="_blank" style="color:blue">préposition</a>s.~%50%--.* tez .*#Attention au <a href="https://fr.wikipedia.org/wiki/possessif" target="_blank" style="color:blue">possessif</a>.~%75%--pʁɑ̃lə .*#Attention au <a href="https://fr.wikipedia.org/wiki/clitique" target="_blank" style="color:blue">clitique</a> objet qui forme un seul mot avec le verbe conjugué.}]]></text></questiontext>
+<generalfeedback><text>Bien reçu.</text></generalfeedback>
+<shuffleanswers>1</shuffleanswers>
+<penalty>0.1000000</penalty>
+</question><question type="cloze">
+<name><text>Dans ton automobile, tous les deux, on sera bien.</text></name>
+<questiontext><text><![CDATA[Séparez les mots de la phrase suivante par des espaces :<br/>dɑ̃tɔ̃notomobiltuledøɔ̃səʁabjɛ̃<br/>{1:RXC:=dɑ̃ tɔ̃n otomobil tu le dø ɔ̃səʁa bjɛ̃#Bravo ! La phrase était : Dans ton automobile, tous les deux, on sera bien.~^([^ ]+ +)?([^ ]+ +)?([^ ]+ +)?([^ ]+ +)?[^ ]+$#Il y a plus de mots~^([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)*[^ ]+$#Il y a moins de mots~--.*(&& otomobil && bjɛ̃).*#Il y a au moins deux mots simples faciles à identifier : un nom et un adjectif.~%25%--.*(&& dɑ̃ && tu ).*#Attention à la <a href="https://fr.wikipedia.org/wiki/préposition" target="_blank" style="color:blue">préposition</a> et à l'adverbe.~%50%--.*(&& tɔ̃n && le ).*#Attention aux déterminants.~%75%--.* ɔ̃səʁa .*#Attention au <a href="https://fr.wikipedia.org/wiki/clitique" target="_blank" style="color:blue">clitique</a> sujet qui forme un seul mot avec le verbe conjugué.}]]></text></questiontext>
+<generalfeedback><text>Bien reçu.</text></generalfeedback>
+<shuffleanswers>1</shuffleanswers>
+<penalty>0.1000000</penalty>
+</question><question type="cloze">
+<name><text>Et dans le ciel, il y aura des étoiles.</text></name>
+<questiontext><text><![CDATA[Séparez les mots de la phrase suivante par des espaces :<br/>edɑ̃ləsjɛliljoʁadezetwal<br/>{1:RXC:=e dɑ̃ lə sjɛl iljoʁa dez etwal#Bravo ! La phrase était : Et dans le ciel, il y aura des étoiles.~^([^ ]+ +)?([^ ]+ +)?([^ ]+ +)?[^ ]+$#Il y a plus de mots~^([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)*[^ ]+$#Il y a moins de mots~--.*(&& sjɛl && etwal).*#Il y a au moins deux mots simples faciles à identifier : deux noms.~%25%--.*(&& lə && dez ).*#Attention aux déterminants.~%40%--.*(&&e && dɑ̃ ).*#Attention à la conjonction et à la <a href="https://fr.wikipedia.org/wiki/préposition" target="_blank" style="color:blue">préposition</a>.~%60%--.*joʁa .*#Attention au <a href="https://fr.wikipedia.org/wiki/clitique" target="_blank" style="color:blue">clitique</a> figé qui forme un seul mot avec le verbe conjugué.~%75%--.* iljoʁa .*#Attention au <a href="https://fr.wikipedia.org/wiki/clitique" target="_blank" style="color:blue">clitique</a> sujet qui forme un seul mot avec le verbe conjugué.}]]></text></questiontext>
+<generalfeedback><text>Bien reçu.</text></generalfeedback>
+<shuffleanswers>1</shuffleanswers>
+<penalty>0.1000000</penalty>
+</question><question type="cloze">
+<name><text>Et du soleil, quand on mettra les voiles.</text></name>
+<questiontext><text><![CDATA[Séparez les mots de la phrase suivante par des espaces :<br/>edysolɛjkɑ̃tɔ̃mɛtʁalevwal<br/>{1:RXC:=e dy solɛj kɑ̃t ɔ̃mɛtʁa le vwal#Bravo ! La phrase était : Et du soleil, quand on mettra les voiles.~^([^ ]+ +)?([^ ]+ +)?([^ ]+ +)?[^ ]+$#Il y a plus de mots~^([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)*[^ ]+$#Il y a moins de mots~--.*(&& solɛj && vwal).*#Il y a au moins deux mots simples faciles à identifier : deux noms.~%25%--.*(&& dy && le ).*#Attention aux déterminants.~%50%--.*(&&e && kɑ̃t ).*#Attention aux conjonctions.~%75%--.* ɔ̃mɛtʁa .*#Attention au <a href="https://fr.wikipedia.org/wiki/clitique" target="_blank" style="color:blue">clitique</a> sujet qui forme un seul mot avec le verbe conjugué.}]]></text></questiontext>
+<generalfeedback><text>Bien reçu.</text></generalfeedback>
+<shuffleanswers>1</shuffleanswers>
+<penalty>0.1000000</penalty>
+</question><question type="cloze">
+<name><text>On s'en ira toute la vie danser le Calypso en Italie.</text></name>
+<questiontext><text><![CDATA[Séparez les mots de la phrase suivante par des espaces :<br/>ɔ̃sɑ̃niʁatutlavidɑ̃seləkalipsoɑ̃nitali<br/>{1:RXC:=ɔ̃sɑ̃niʁa tut la vi dɑ̃se lə kalipso ɑ̃n itali#Bravo ! La phrase était : On s'en ira toute la vie danser le Calypso en Italie.~^([^ ]+ +)?([^ ]+ +)?([^ ]+ +)?([^ ]+ +)?([^ ]+ +)?[^ ]+$#Il y a plus de mots~^([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)([^ ]+ +)*[^ ]+$#Il y a moins de mots~--.*(&& vi && dɑ̃se && itali).*#Il y a au moins trois mots simples faciles à identifier : deux noms et un verbe.~%25%--.*(&& la && lə && kalipso).*#Attention à l'emprunt et aux déterminants.~%40%--.*ɑ̃niʁa .*#Attention au <a href="https://fr.wikipedia.org/wiki/clitique" target="_blank" style="color:blue">clitique</a> figé qui forme un seul mot avec le verbe conjugué.~%60%--.*sɑ̃niʁa .*#Attention au <a href="https://fr.wikipedia.org/wiki/clitique" target="_blank" style="color:blue">clitique</a> <a href="https://fr.wikipedia.org/wiki/Morphologie_du_pronom_personnel_en_français#Pronom_r.C3.A9fl.C3.A9chi_et_pronom_non_r.C3.A9fl.C3.A9chi" target="_blank" style="color:blue">réfléchi</a> qui forme un seul mot avec le verbe conjugué.~%75%--ɔ̃sɑ̃niʁa .*#Attention au <a href="https://fr.wikipedia.org/wiki/clitique" target="_blank" style="color:blue">clitique</a> sujet qui forme un seul mot avec le verbe conjugué.}]]></text></questiontext>
+<generalfeedback><text>Bien reçu.</text></generalfeedback>
+<shuffleanswers>1</shuffleanswers>
+<penalty>0.1000000</penalty>
+</question>
+</quiz>
