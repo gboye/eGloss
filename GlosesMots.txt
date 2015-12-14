@@ -1,12 +1,9 @@
 #EXM;Le chat gris souris nous observait du haut de la gouttière vert clair.
-DEF-M.SG.⊖ chat(M)[SG] gris(M)[SG] souris(F)[SG] PRO.1PL.OBJ-PRO.PL.⊕-observer(G1)-IND.IPF.3SG DE_DEF-M.SG.⊖ haut(M)[SG] DE DEF-F.SG.⊖ gouttière(F)[SG] vert(M)[SG] clair[M.SG]#l-ə ʃa gʁi suʁi nu-z-opsɛʁv-ɛ d-y o də l-a gutjɛʁ vɛʁ klɛʁ
+DEF-M.SG.⊖ chat(M)[SG] gris(M)[SG] souris(F)[SG] OBJ.1PL.PL.⊕-observer(G1)-IND.IPF.3SG DE_DEF-M.SG.⊖ haut(M)[SG] DE DEF-F.SG.⊖ gouttière(F)[SG] vert(M)[SG] clair[M.SG]#l-ə ʃa gʁi suʁi nuz-opsɛʁv-ɛ d-y o də l-a gutjɛʁ vɛʁ klɛʁ
 --.*(&& chat&& gris&& souris&&observ&& haut&& gouttière&& vert&& clair).*#Il manque des mots lexicaux.
 --.*(&&DEF&& DE DEF).*#Il manque des mots grammaticaux (à noter en majuscules).
-#--.*(&& chat\S*M\S*SG&& souris\S*F\S*SG && haut\S*M\S*SG&& gouttière\S*F\S*SG).*#La glose des noms comprend leur genre et leur nombre.
 --.*(&& chat(M)[SG] && souris(F)[SG] && haut(M)[SG] && gouttière(F)[SG] ).*#La glose des noms comprend leur genre et leur nombre.#La glose des noms comprend leur genre lexical et leur nombre en contexte.
-#--.*(&&DEF\S*M\S*SG\S* chat&& DEF\S*F\S*SG\S* gouttière).*#La glose des définis comprend leur genre et leur nombre.
 --.*(&&DEF-M.SG.*chat&& DEF-F.SG.*gouttière).*#La glose des définis comprend leur genre et leur nombre.#Pour les définis le genre et le nombre constituent un suffixe.
-#--.*(&& gris\S*M\S*SG\S* souris&& vert\S*M\S*SG\S* clair\S*M\S*SG).*#Attention au genre et au nombre des couleurs.
 --.*(&& gris(M)[SG] && vert(M)[SG] clair[M.SG]).*#Attention au genre et au nombre des couleurs.#Attention à la différence nom/adjectif pour les couleurs.
 --.*(&&DEF-M.SG.⊖ chat&& DEF-F.SG.⊖ gouttière).*#Pensez aux problèmes de liaison pour les définis.
 --.* DE_DEF.*#Attention à séparer les deux morceaux de l'élément fusionné : M1_M2.
@@ -14,6 +11,56 @@ DEF-M.SG.⊖ chat(M)[SG] gris(M)[SG] souris(F)[SG] PRO.1PL.OBJ-PRO.PL.⊕-observ
 --.* DE_DEF-M.SG.⊖ haut.*#Attention à l'élément fusionné vis à vis de la liaison.
 --.*(&&observer\S*-IND.IPF.3SG ).*#Attention à la conjugaison du verbe.#Attention à la marque de conjugaison du verbe.
 --.*(&&observer(G1)-IND.IPF.3SG ).*#Attention au groupe du verbe.#Attention au groupe lexical du verbe.
---.*(&& PRO.1PL.OBJ\S*-observer).*#Attention au clitique objet.#Attention au clitique objet et à sa marque de liaison.
---.*(&& PRO.1PL.OBJ\S*PL\S*-observer).*#Attention à la marque du pluriel pour le clitique objet.
---.*(&& PRO.1PL.OBJ-PRO.PL.⊕-observer).*#Attention à la marque du pluriel de liaison pour le clitique objet.#Attention au clitique objet et à sa marque de liaison.
+--.*(&& OBJ.1PL\S*-observer).*#Attention au clitique objet.#Attention au clitique objet et à sa marque de liaison.
+--.*(&& OBJ.1PL\S*PL\S*-observer).*#Attention à la marque du pluriel pour le clitique objet.
+--.*(&& OBJ.1PL.PL.⊕-observer).*#Attention à la marque du pluriel de liaison pour le clitique objet (1 seul morphe).#Attention au clitique objet et à sa marque de liaison (1 seul morphe).
+
+#EXM;Amène-moi un ouvre-boîte de la cuisine.
+amener(G1).IMP.PRS.2SG-DAT.1SG.SG IND.SG.M-⊕ ouvrir-boîte(M)[SG] DE DEF-F.SG.⊖ cuisine(F)[SG]#amɛn-mwa œ̃-n uvʁə-bwat də l-a kɥizin
+--.*(&&amener&& ouvrir&&boîte&& cuisine).*#Il manque des mots lexicaux (attention à mettre les formes de citation pour le mot composé).
+--.*(&& IND&& DE DEF).*#Il manque des mots grammaticaux (à noter en majuscules).
+--.*(&& ouvrir-boîte(M)[SG] && cuisine(F)[SG]).*#La glose des noms comprend leur genre et leur nombre.#La glose des noms comprend leur genre lexical et leur nombre en contexte.
+--.* DEF\S*F\S*SG\S*⊖ .*#Attention aux propriétés pour l'article défini.
+--.* DEF-F.SG.⊖ .*#Attention aux points et aux tirets pour l'article défini.
+--.* IND\S*SG\S*M.*#Pour l'article indéfini singulier, mettre le nombre avant le genre
+--.* IND\S*SG\S*M\S*⊕ .*#Attention à la liaison avec l'indéfini.
+--.* IND.SG.M-⊕ .*#Attention aux points et aux tirets pour l'article indéfini.
+--.*(&&amener\S*-IMP.PRS.2SG).*#Attention à la conjugaison du verbe.
+--.*(&&amener\S*-DAT.1SG).*#Attention au clitique datif.
+--.*(&&amener\S*-DAT.1SG.SG).*#Attention au nombre du clitique datif.
+--.*(&&amener(G1)-IMP.PRS.2SG-DAT.1SG.SG).*#Attention au groupe du verbe.#Attention au groupe lexical du verbe.
+
+#EXM;Cet enfant est arrivé au lycée en bus.
+DEM-[M.SG.⊕] enfant(M)[SG] AUX1.IND.PRS.3SG-⊕ arriver(G1)-PART.PST[M.SG] À_DEF[M.SG.⊖] lycée(M)[SG] PREP.EN bus(M)[SG]#s-ɛt ɑ̃fɑ̃ ɛ-t aʁiv-e o lise ɑ̃ bys
+--.*(&& enfant&& arriver&& lycée&& bus).*#Il y a au moins quatre mots simples faciles à identifier : trois noms et un verbe .
+--.*(&&DEM&&DEF&&EN ).*#Il manque des mots grammaticaux (à noter en majuscules).
+--.* PREP.EN .*#Attention à noter PREP. pour les prépositions autres que À et DE.
+--.*(&& enfant(M)[SG] && lycée(M)[SG] && bus(M)[SG]).*#La glose des noms comprend leur genre et leur nombre.#La glose des noms comprend leur genre lexical et leur nombre en contexte.
+--.* À_DEF.*#Attention à l'élement fusionné.
+--.* À_DEF\S*M\S*SG.*#Attention aux propriétés de l'élement fusionné.
+--.* À_DEF\S*M\S*SG\S*⊖.*#Attention aux propriétés de liaison de l'élement fusionné.
+--.* À_DEF[M.SG.⊖] .*#Attention les propriétés de l'élement fusionné ne sont pas audibles.
+--.*(&&DEM-[M.SG.⊕] ).*#Attention au démonstratif.#Le suffixe du démonstratif n'a aucune propriété fixe
+--.*(&&arriver\S*-PART.PST).*#Attention à la conjugaison du participe.
+--.*(&&arriver\S*-PART.PST[M.SG]).*#Attention à l'accord du participe.#Attention, l'accord du participe n'est pas audible hors contexte.
+--.*(&&arriver(G1)-PART.PST).*#Attention au groupe du verbe au participe.#Attention au groupe lexical du verbe au participe.
+--.*(&&AUX1\S*IND.PRS.3SG).*#Attention à l'auxiliaire du temps composé (≠être).
+--.*(&&AUX1.IND.PRS.3SG).*#Pour l'auxiliaire, inutile de noter un groupe.
+--.*(&&AUX1.IND.PRS.3SG-⊕).*#Pour l'auxiliaire, il faut noter le morphe de liaison.
+
+#EXM;De la sauce est tombée de la louche sur ses chaussures.
+PART-F.SG.⊖ sauce(F)[SG] AUX1.IND.PRS.3SG[⊖] tomber(G1)-PART.PST[F.SG] DE DEF-F.SG.⊖ louche(F)[SG] PREP.SUR POSS.3SG-PL[F] chaussure(F)[PL]#d-əla sos ɛ tɔ̃b-e də l-a luʃ syʁ s-e ʃosyʁ
+--.*(&& sauce&& tomber&& louche&& chaussure).*#Il y a au moins quatre mots simples faciles à identifier : trois noms et un verbe .
+--.*(&&PART&& DE DEF&&SUR &&POSS).*#Il manque des mots grammaticaux (à noter en majuscules).
+--.* PREP.SUR .*#Attention à noter la préposition locative avec un PREP.
+--.* DEF-F.SG.⊖ .*#Attention aux propriétés du défini.
+--PART-.*#Attention au nombre de morphes du partitif.
+--PART-F.SG.⊖ .*#Attention aux propriétes du partitif (genre, nombre, liaison).
+--POSS.3SG.*#Attention à la personne du possessif.
+--POSS.3SG-PL.*#Attention le possessif porte une marque de nombre.
+--POSS.3SG-PL[F].*#Attention au genre du possessif.#Attention le genre du possessif dépend du contexte.
+--.*(&&tomber\S*-PART.PST).*#Attention à la conjugaison du participe.
+--.*(&&tomber\S*-PART.PST[F.SG]).*#Attention à l'accord du participe.#Attention, l'accord du participe n'est pas audible hors contexte.
+--.*(&&tomber(G1)-PART.PST).*#Attention au groupe du verbe au participe.#Attention au groupe lexical du verbe au participe.
+--.*(&&AUX1\S*IND.PRS.3SG).*#Attention à l'auxiliaire du temps composé (≠être).
+--.*(&&AUX1.IND.PRS.3SG).*#Pour l'auxiliaire, inutile de noter un groupe.
