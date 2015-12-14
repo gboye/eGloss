@@ -3,25 +3,138 @@ l-ə ʃa gʁi suʁi nu-z-opsɛʁv-ɛ d-y o də l-a gutjɛʁ vɛʁ klɛʁ
 --.*(&& ʃa && gʁi && suʁi && o && də && gutjɛʁ && vɛʁ && klɛʁ).*#Il y a d'autres mots simples (sans tirets).
 --.*opsɛʁv-ɛ .*#Attention à la conjugaison du verbe.
 --.*(&&l-ə && d-y && l-a ).*#Attention au découpage des déterminants.
---.*z-opsɛʁv-ɛ .*#Attention au clitique objet.
+--.*nu\S*z-opsɛʁv-ɛ .*#Attention au clitique objet.
 --.* nu-z-opsɛʁv-ɛ .*#Attention au découpage du clitique objet.
 
-#EXM;Le chat gris souris nous observait du haut de la gouttière vert clair.
-DEF-M.SG.⊖ chat(M)[SG] gris(M)[SG] souris(F)[SG] PRO.1PL.OBJ-PRO.PL.⊕-observer(G1)-IND.IPF.3SG DE_DEF-M.SG.⊖ haut(M)[SG] DE DEF-F.SG.⊖ gouttière(F)[SG] vert(M)[SG] clair[M.SG]#l-ə ʃa gʁi suʁi nu-z-opsɛʁv-ɛ d-y o də l-a gutjɛʁ vɛʁ klɛʁ
---.*(&& chat&& gris&& souris&&observer&& haut&& gouttière&& vert&& clair).*#Il manque des mots lexicaux.
---.*(&&DEF&& DE DEF).*#Il manque des mots grammaticaux (à noter en majuscules).
-#--.*(&& chat\S*M\S*SG&& souris\S*F\S*SG && haut\S*M\S*SG&& gouttière\S*F\S*SG).*#La glose des noms comprend leur genre et leur nombre.
---.*(&& chat(M)[SG] && souris(F)[SG] && haut(M)[SG] && gouttière(F)[SG] ).*#La glose des noms comprend leur genre et leur nombre.#La glose des noms comprend leur genre lexical et leur nombre en contexte.
-#--.*(&&DEF\S*M\S*SG\S* chat&& DEF\S*F\S*SG\S* gouttière).*#La glose des définis comprend leur genre et leur nombre.
---.*(&&DEF-M.SG.*chat&& DEF-F.SG.*gouttière).*#La glose des définis comprend leur genre et leur nombre.#Pour les définis le genre et le nombre constituent un suffixe.
-#--.*(&& gris\S*M\S*SG\S* souris&& vert\S*M\S*SG\S* clair\S*M\S*SG).*#Attention au genre et au nombre des couleurs.
---.*(&& gris(M)[SG] && vert(M)[SG] clair[M.SG]).*#Attention au genre et au nombre des couleurs.#Attention aux couleurs qui sont des noms.
---.*(&&DEF-M.SG.⊖ chat&& DEF-F.SG.⊖ gouttière).*#Pensez aux problèmes de liaison pour les définis.
---.* DE_DEF.*#Attention à séparer les deux morceaux de l'élément fusionné : M1_M2.
---.* DE_DEF-M.SG.*#Attention au genre et au nombre de l'élément fusionné.
---.* DE_DEF-M.SG.⊖ haut.*#Attention à l'élément fusionné vis à vis de la liaison.
---.*(&&observer\S*-IND.IPF.3SG ).*#Attention à la conjugaison du verbe.#Attention à la marque de conjugaison du verbe.
---.*(&&observer(G1)-IND.IPF.3SG ).*#Attention au groupe du verbe.#Attention au groupe lexical du verbe.
---.*(&& PRO.1PL.OBJ\S*-observer).*#Attention au clitique objet.#Attention au clitique objet et à sa marque de liaison.
---.*(&& PRO.1PL.OBJ\S*PL\S*-observer).*#Attention à la marque du pluriel pour le clitique objet.
---.*(&& PRO.1PL.OBJ-PRO.PL.⊕-observer).*#Attention à la marque du pluriel de liaison pour le clitique objet.#Attention au clitique objet et à sa marque de liaison.
+#EXM;Amène-moi un ouvre-boîte de la cuisine.
+amɛn-mwa œ̃-n uvʁə-bwat də l-a kɥizin
+--.* kɥizin#Il y a un nom facile à identifier.
+--.* uvʁə-bwat .*#Attention au nom composé.
+--.* œ̃-n .*#Attention à la liaison avec l'indéfini.
+--amɛn-mwa .*#Attention au clitique datif qui forme un seul mot avec le verbe conjugué.
+
+#EXM;Cet enfant est arrivé au lycée en bus.
+s-ɛt ɑ̃fɑ̃ ɛ-t aʁive o lise ɑ̃ bys
+--.*(&& ɑ̃fɑ̃ && aʁive && lise && bys).*#Il y a au moins quatre mots simples faciles à identifier : trois noms et un verbe .
+--.*s-ɛt .*#Attention au démonstratif.
+--.* ɛ-t .*#Attention à la liaison avec le verbe.
+
+#EXM;De la sauce est tombée de la louche sur ses chaussures.
+d-əla sos ɛ tɔ̃b-e də l-a luʃ syʁ s-e ʃosyʁ
+--.*(&& sos && tɔ̃b\S*e && luʃ && ʃosyʁ).*#Il y a au moins quatre mots simples faciles à identifier : trois noms et un verbe .
+--.* syʁ .*#Attention à la préposition locative.
+--d-əla sos.*#Attention au partitif.
+--.* də l-a luʃ.*#Attention au déterminant féminin.
+
+#EXM;Deux amis se sont assis au bar.
+dø-z ami sə-sɔ̃-t asi o baʁ
+--.*(&& ami && asi && baʁ).*#Il y a au moins trois mots simples faciles à identifier : deux noms et un verbe.
+--.*dø-z.*#Attention à la liaison avec le numéral.
+--.*sɔ̃-t .*#Attention à la liaison avec le verbe.
+--.* sə-sɔ̃-t .*#Attention au clitique réfléchi qui forme un seul mot avec le verbe conjugué.
+
+#EXM;Émilie l'a mise dans pot-au-feu ce matin.
+emili l-a mi-z dɑ̃ s-ɔ̃ potofø s-ə matɛ̃
+--.*(&&emili && mi\S*z && matɛ̃).*#Il y a au moins trois mots faciles à identifier : deux noms et un verbe.
+--.* potofø .*#Attention au nom composé.
+--.*(&& dɑ̃ && s-ɔ̃ ).*#Attention à la forme de la préposition et du possessif.
+--.* mi-z .*#Attention au participe passé.
+--.* l-a .*#Attention au clitique objet qui forme un seul mot avec le verbe conjugué.
+
+#EXM;Les étudiants n'arrivent pas en avance.
+le-z etydjɑ̃ n-aʁiv pa ɑ̃-n avɑ̃s
+--.*(&& etydjɑ̃ && pa && avɑ̃s).*#Il y a au moins trois mots simples faciles à identifier : deux noms et une négation.
+--.*le-z .*#Attention au défini pluriel.
+--.* ɑ̃-n .*#Attention à la liaison de la préposition.
+--.* n-aʁiv .*#Attention, la négation préverbale est un clitique pour les verbes conjugués.
+
+#EXM;Son idée saugrenue ne vient pas de moi.
+s-ɔ̃-n ide sogʁəny nə-vjɛ̃ pa də mwa
+--.*(&& ide && sogʁəny && mwa).*#Il y a au moins trois mots faciles à identifier : un nom, un adjectif et un pronom.
+--sɔ̃-n .*#Attention au possessif.
+--.* pa .*#Attention à la négation post-verbale.
+--.* nə-vjɛ̃ .*#Attention la négation pré-verbale qui est clitique pour les verbes conjugués.
+
+#EXM;Un savant anglais me l'a dit.
+œ̃ savɑ̃-t ɑ̃glɛ mə-l-a di
+--.*(&& ɑ̃glɛ && di).*#Il y a au moins deux mots simples faciles à identifier : un nom et un verbe.
+--.* savɑ̃-t .*#Attention à la forme de l'adjectif.
+--.*l-a di#Attention au clitique objet qui forme un seul mot avec le verbe conjugué.
+--.* mə-l-a .*#Attention au clitique datif qui fait partie du verbe conjugué.
+
+#EXM;Camille en a mis partout sur tes affaires.
+kamij ɑ̃-n-a mi paʁtu syʁ t-e-z afɛʁ
+--.*(&&kamij && mi && afɛʁ).*#Il y a au moins trois mots simples faciles à identifier : deux noms et un verbe.
+--.* paʁtu .*#Attention à l'adverbe.
+--.* t-e-z .*#Attention à la forme du possessif.
+--.* ɑ̃\S*n-a .*#Attention au clitique objet qui fait partie du verbe conjugué.
+--.* ɑ̃-n-a .*#Attention au clitique objet et à sa forme de liaison.
+
+#EXM;Donne-le-lui avant le début de la deuxième mi-temps.
+dɔn-lə-lɥi avɑ̃ l-ə deby də l-a dø-z-jɛm mi-tɑ̃
+--.*(&& deby && dø\S*z\S*jɛm && avɑ̃).*#Il y a au moins trois mots simples faciles à identifier : une préposition, un nom et un adjectif.
+--.* mi-tɑ̃#Attention au nom composé.
+--dɔn-lə.*#Attention au clitique objet qui forme un seul mot avec le verbe conjugué.
+--dɔn-lə-lɥi .*#Attention au clitique datif qui forme un seul mot avec le verbe conjugué.
+
+#EXM;Vas le lui dire en face aux yeux de tout le monde.
+va lə-lɥi-di-ʁ ɑ̃ fas o-z jø də tu l-ə mɔ̃d
+--.*(&& fas && tu && mɔ̃d).*#Il y a au moins trois mots simples faciles à identifier : deux noms et un adverbe.
+--.*(&&va && jø ).*#Attention au verbe conjugué et au nom irrégulier.
+--.*di-ʁ .*#Attention l'infinitif du verbe.
+--.*lɥi-di-ʁ.*#Attention au clitique datif qui forme un seul mot avec le verbe.
+--.* lə-lɥi-di-ʁ .*#Attention au clitique objet qui forme un seul mot avec le verbe.
+
+#EXM;Laisse-moi la regarder chanter ce poème aujourd'hui.
+lɛs-mwa la-ʁəgaʁd-e ʃɑ̃t-e s-ə poɛm oʒuʁdɥi
+--.*(&& ʃɑ̃t\S*e && poɛm ).*#Il y a au moins deux mots simples faciles à identifier : un nom et un verbe.
+--.*(&& s-ə && oʒuʁdɥi).*#Attention au démonstratif et au nom composé.
+--.*(&&ʁəgaʁd-e && ʃɑ̃t-e ).*#Attention aux infinitifs.
+--.*lɛs-mwa .*#Attention au clitique datif qui forme un seul mot avec le verbe conjugué.
+--.* la-ʁəgaʁd-e .*#Attention au clitique objet qui forme un seul mot avec le verbe.
+
+#EXM;J'en ai pris pour mon grade avec tes bêtises pendant les vacances.
+ʒ-ɑ̃-n-ɛ pʁi puʁ m-ɔ̃ gʁad avɛk t-e betiz pɑ̃dɑ̃ l-e vakɑ̃s
+--.*(&& pʁi && gʁad && betiz && vakɑ̃s).*#Il y a au moins quatre mots simples faciles à identifier : trois noms et un verbe.
+--.*(&& puʁ && avɛk && pɑ̃dɑ̃ ).*#Attention aux prépositions.
+--.*ɑ̃\S*n-ɛ.*#Attention au clitique objet qui forme un seul mot avec le verbe conjugué.
+--ʒɑ̃\S*n-ɛ.*#Attention au clitique sujet qui forme un seul mot avec le verbe conjugué.
+--ʒ-ɑ̃-n-ɛ .*#Attention au clitique objet et à sa forme de liaison.
+
+#EXM;Prends-le avec toi pour tes escapades italiennes.
+pʁɑ̃-lə avɛk twa puʁ t-e-z ɛskapad-z italjɛn
+--.*(&& twa && italjɛn).*#Il y a au moins deux mots simples faciles à identifier : un pronom et un adjectif.
+--.*(&& avɛk && puʁ ).*#Attention aux prépositions.
+--.* ɛskapad-z .*#Attention à la liaison du nom pluriel.
+--.* t-e-z .*#Attention au possessif et sa liaison.
+--pʁɑ̃-lə .*#Attention au clitique objet qui forme un seul mot avec le verbe conjugué.
+
+#EXM;Dans ton automobile, tous les deux, on sera bien.
+dɑ̃ t-ɔ̃-n otomobil tu le dø ɔ̃-sə-ʁa bjɛ̃
+--.*(&& otomobil && bjɛ̃).*#Il y a au moins deux mots simples faciles à identifier : un nom et un adjectif.
+--.*(&& dɑ̃ && tu ).*#Attention à la préposition et à l'adverbe.
+--.*(&& t-ɔ̃-n && l-e ).*#Attention aux déterminants.
+--.* ɔ̃-sə-ʁa .*#Attention au clitique sujet qui forme un seul mot avec le verbe conjugué.
+
+#EXM;Et dans le ciel, il y aura des étoiles.
+e dɑ̃ l-ə sjɛl il-j-o-ʁa d-e-z etwal
+--.*(&& sjɛl && etwal).*#Il y a au moins deux mots simples faciles à identifier : deux noms.
+--.*(&& l-ə && d-e-z ).*#Attention aux déterminants.
+--.*(&&e && dɑ̃ ).*#Attention à la conjonction et à la préposition.
+--.*j-o-ʁa .*#Attention au clitique figé qui forme un seul mot avec le verbe conjugué.
+--.* il-j-o-ʁa .*#Attention au clitique sujet qui forme un seul mot avec le verbe conjugué.
+
+#EXM;Et du soleil, quand on mettra les voiles.
+e d-y solɛj kɑ̃-t ɔ̃-mɛt-ʁa l-e vwal
+--.*(&& solɛj && vwal).*#Il y a au moins deux mots simples faciles à identifier : deux noms.
+--.*(&& d-y && l-e ).*#Attention aux déterminants.
+--.*(&&e && kɑ̃-t ).*#Attention aux conjonctions.
+--.* ɔ̃-mɛt-ʁa .*#Attention au clitique sujet qui forme un seul mot avec le verbe conjugué.
+
+#EXM;On s'en ira toute la vie danser le Calypso en Italie.
+ɔ̃-s-ɑ̃-n-i-ʁa tu-t l-a vi dɑ̃s-e l-ə kalipso ɑ̃-n itali
+--.*(&& vi && dɑ̃s\S*e && itali).*#Il y a au moins trois mots simples faciles à identifier : deux noms et un verbe.
+--.*(&& l-a && l-ə && kalipso).*#Attention à l'emprunt et aux déterminants.
+--.*ɑ̃-n-i-ʁa .*#Attention au clitique figé qui forme un seul mot avec le verbe conjugué.
+--.*s-ɑ̃-n-i-ʁa .*#Attention au clitique réfléchi qui forme un seul mot avec le verbe conjugué.
+--ɔ̃-s-ɑ̃-n-i-ʁa .*#Attention au clitique sujet qui forme un seul mot avec le verbe conjugué.
