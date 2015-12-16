@@ -73,7 +73,7 @@ dø-z ami sə-sɔ̃-t asi o baʁ
 --.*sɔ̃-t .*#Attention à la liaison avec le verbe.
 --.* sə-sɔ̃-t .*#Attention au clitique réfléchi qui forme un seul mot avec le verbe conjugué.
 
-#EXM;Émilie l'a mise dans pot-au-feu ce matin.
+#EXM;Émilie l'a mise dans son pot-au-feu ce matin.
 emili l-a mi-z dɑ̃ s-ɔ̃ potofø s-ə matɛ̃
 --.*(&&emili && mi\S*z && matɛ̃).*#Il y a au moins trois mots faciles à identifier : deux noms et un verbe.
 --.* potofø .*#Attention au nom composé.

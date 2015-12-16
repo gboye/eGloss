@@ -1,6 +1,6 @@
 #EXM;Le chat gris souris nous observait du haut de la gouttière vert clair.
 l-ə ʃa gʁi suʁi nu-z-opsɛʁv-ɛ d-y o də l-a gutjɛʁ vɛʁ klɛʁ
---.*(&& ʃa && gʁi && suʁi && o && də && gutjɛʁ && vɛʁ && klɛʁ).*#Il y a d'autres mots simples (sans tirets).
+--.*(&& ʃa gʁi suʁi && o də && gutjɛʁ vɛʁ klɛʁ).*#Il y a d'autres mots simples (sans tirets).
 --.*opsɛʁv-ɛ .*#Attention à la conjugaison du verbe.
 --.*(&&l-ə && d-y && l-a ).*#Attention au découpage des déterminants.
 --.*nu\S*z-opsɛʁv-ɛ .*#Attention au clitique objet.
@@ -33,11 +33,11 @@ dø-z ami sə-sɔ̃-t asi o baʁ
 --.*sɔ̃-t .*#Attention à la liaison avec le verbe.
 --.* sə-sɔ̃-t .*#Attention au clitique réfléchi qui forme un seul mot avec le verbe conjugué.
 
-#EXM;Émilie l'a mise dans pot-au-feu ce matin.
+#EXM;Émilie l'a mise dans son pot-au-feu ce matin.
 emili l-a mi-z dɑ̃ s-ɔ̃ potofø s-ə matɛ̃
 --.*(&&emili && mi\S*z && matɛ̃).*#Il y a au moins trois mots faciles à identifier : deux noms et un verbe.
 --.* potofø .*#Attention au nom composé.
---.*(&& dɑ̃ && s-ɔ̃ ).*#Attention à la forme de la préposition et du possessif.
+--.*(&& dɑ̃ s-ɔ̃ ).*#Attention à la forme de la préposition et du possessif.
 --.* mi-z .*#Attention au participe passé.
 --.* l-a .*#Attention au clitique objet qui forme un seul mot avec le verbe conjugué.
 
