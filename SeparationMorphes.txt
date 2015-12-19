@@ -34,9 +34,9 @@ dø-z ami sə-sɔ̃-t asi o baʁ
 --.* sə-sɔ̃-t .*#Attention au clitique réfléchi qui forme un seul mot avec le verbe conjugué.
 
 #EXM;Émilie l'a mise dans son pot-au-feu ce matin.
-emili l-a mi-z dɑ̃ s-ɔ̃ potofø s-ə matɛ̃
+emili l-a mi-z dɑ̃ s-ɔ̃ pot-o-fø s-ə matɛ̃
 --.*(&&emili && mi\S*z && matɛ̃).*#Il y a au moins trois mots faciles à identifier : deux noms et un verbe.
---.* potofø .*#Attention au nom composé.
+--.* pot-o-fø .*#Attention au nom composé.
 --.*(&& dɑ̃ s-ɔ̃ ).*#Attention à la forme de la préposition et du possessif.
 --.* mi-z .*#Attention au participe passé.
 --.* l-a .*#Attention au clitique objet qui forme un seul mot avec le verbe conjugué.
@@ -50,8 +50,8 @@ le-z etydjɑ̃ n-aʁiv pa ɑ̃-n avɑ̃s
 
 #EXM;Son idée saugrenue ne vient pas de moi.
 s-ɔ̃-n ide sogʁəny nə-vjɛ̃ pa də mwa
---.*(&& ide && sogʁəny && mwa).*#Il y a au moins trois mots faciles à identifier : un nom, un adjectif et un pronom.
---sɔ̃-n .*#Attention au possessif.
+--.*(&& ide sogʁəny && mwa).*#Il y a au moins trois mots faciles à identifier : un nom, un adjectif et un pronom.
+--s-ɔ̃-n .*#Attention au possessif.
 --.* pa .*#Attention à la négation post-verbale.
 --.* nə-vjɛ̃ .*#Attention la négation pré-verbale qui est clitique pour les verbes conjugués.
 
@@ -129,6 +129,7 @@ e d-y solɛj kɑ̃-t ɔ̃-mɛt-ʁa l-e vwal
 --.*(&& solɛj && vwal).*#Il y a au moins deux mots simples faciles à identifier : deux noms.
 --.*(&& d-y && l-e ).*#Attention aux déterminants.
 --.*(&&e && kɑ̃-t ).*#Attention aux conjonctions.
+--.*mɛt-ʁa .*#Attention au verbe conjugué et à la marque du futur.
 --.* ɔ̃-mɛt-ʁa .*#Attention au clitique sujet qui forme un seul mot avec le verbe conjugué.
 
 #EXM;On s'en ira toute la vie danser le Calypso en Italie.
