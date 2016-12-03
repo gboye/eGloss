@@ -1,5 +1,6 @@
 #EXM;Amène-moi un ouvre-boîte de la cuisine.
 amɛnmwa œ̃n uvʁəbwat də la kɥizin
+--.* də la .*#Attention à la préposition.
 --.* kɥizin#Il y a un nom facile à identifier.
 --.* uvʁəbwat .*#Attention au nom composé.
 --.* œ̃n .*#Attention à la liaison avec l'indéfini.
@@ -25,7 +26,7 @@ døz ami səsɔ̃t asi o baʁ
 --.*sɔ̃t .*#Attention à la liaison avec le verbe.
 --.* səsɔ̃t .*#Attention au clitique réfléchi qui forme un seul mot avec le verbe conjugué.
 
-#EXM;Émilie l'a mise dans pot-au-feu ce matin.
+#EXM;Émilie l'a mise dans son pot-au-feu ce matin.
 emili la miz dɑ̃ sɔ̃ potofø sə matɛ̃
 --.*(&&emili && miz && matɛ̃).*#Il y a au moins trois mots faciles à identifier : deux noms et un verbe.
 --.* potofø .*#Attention au nom composé.
@@ -124,3 +125,135 @@ e dy solɛj kɑ̃t ɔ̃mɛtʁa le vwal
 --.*ɑ̃niʁa .*#Attention au clitique figé qui forme un seul mot avec le verbe conjugué.
 --.*sɑ̃niʁa .*#Attention au clitique réfléchi qui forme un seul mot avec le verbe conjugué.
 --ɔ̃sɑ̃niʁa .*#Attention au clitique sujet qui forme un seul mot avec le verbe conjugué.
+
+#EXM;Un marchand très riche avait plusieurs maisons à la campagne.
+œ̃ maʁʃɑ̃ tχɛ ʁiʃ avɛ plyzjœʁ mɛzɔ̃ a la kɑ̃paɲ
+--.*(&& maʁʃɑ̃ && ʁiʃ && mɛzɔ̃ && kɑ̃paɲ).*#Il y a au moins quatre mots simples faciles à identifier : trois noms et un adjectif.
+--.*(&&œ̃ && tχɛ && plyzjœʁ && la ).*#Attention aux déterminants et à l'adverbe.
+--.* avɛ .*#Attention au verbe conjugué.
+
+#EXM;Il faisait nourrir une grande quantité de toute sorte de bétail.
+ilfəzɛ nuʁiʁ yn gʁɑ̃d kɑ̃tite də tut sɔχt də betaj
+--.*(&& kɑ̃tite && sɔχt && betaj).*#Il y a au moins trois noms faciles à identifier.
+--.*(&& yn && də tut && də ).*#Attention aux prépositions et aux déterminants.
+--.*(&& nuʁiʁ && gʁɑ̃d ).*#Attention à l'infinitif et à l'adjectif.
+--ilfəzɛ .*#Attention au clitique sujet qui forme un seul mot avec le verbe conjugué.
+
+#EXM;Il se retira avec sa femme et ses enfants à une de ses terres, pour la faire valoir par lui-même.
+ilsəʁətiʁa avɛk sa fɛm e sez ɑ̃fɑ̃ a yn də se tɛʁ puʁ lafɛʁ valwaʁ paʁ lɥimɛm
+--.*(&& fɛm && ɑ̃fɑ̃ && tɛʁ).*#Il y a au moins trois noms faciles à identifier.
+--.*(&& avɛk sa && e sez && a yn də se && puʁ && paʁ ).*#Attention aux prépositions, aux déterminants et la coordination.
+--.*(&&fɛʁ valwaʁ && lɥimɛm).*#Attention aux infinitifs et au pronom réfléchi.
+--.*(&&səʁətiʁa && lafɛʁ ).*#Attention aux clitiques objets qui forment un seul mot avec le verbe conjugué.
+--ilsəʁətiʁa .*#Attention au clitique sujet qui forme un seul mot avec le verbe conjugué.
+
+#EXM;Il avait le don d'entendre le langage des bêtes.
+ilavɛ lə dɔ̃ dɑ̃tɑ̃dʁ lə lɑ̃gaʒ de bɛt
+--.*(&& dɔ̃ &&ɑ̃tɑ̃dʁ && lɑ̃gaʒ && bɛt).*#Il y a au moins quatre mots faciles à identifier : un verbe et deux noms.
+--.*(&& lə && lə && de ).*#Attention aux prépositions et aux déterminants.
+--.* dɑ̃tɑ̃dʁ .*#Attention à la préposition élidée qui forme un seul mot avec l'infinitif.
+--ilavɛ .*#Attention au clitique sujet qui forme un seul mot avec le verbe conjugué.
+
+#EXM;Mais avec cette condition, qu'il ne pouvait l'interpréter à personne, sans s'exposer à perdre la vie.
+mɛz avɛk sɛt kɔ̃disjɔ̃ kilnəpuvɛ lɛ̃tɛχpχɛte a pɛχsɔn sɑ̃ sɛkspoze a pɛʁdʁ la vi
+--.*(&& kɔ̃disjɔ̃ && pɛχsɔn &&ɛkspoze && pɛʁdʁ && vi).*#Il y a au moins cinq mots faciles à identifier : deux verbes et trois noms.
+--.*(&& avɛk sɛt && a && sɑ̃ && la ).*#Attention aux prépositions et aux déterminants.
+--.*(&& lɛ̃tɛχpχɛte && sɛkspoze ).*#Attention aux clitiques objets qui forment un seul mot avec l'infinitif.
+--.*(&&mɛz && kil).*#Attention aux conjonctions, notamment celle qui ne forme qu'un mot avec le sujet.
+--.*ilnəpuvɛ .*#Attention au clitique sujet et la négation qui ne forment qu'un seul mot avec le verbe conjugué.
+
+#EXM;Ce qui l'empêchait de communiquer les choses qu'il avait apprises par le moyen de ce don.
+sə ki lɑ̃peʃɛ də komynike le ʃoz kilavɛ apχiz paʁ lə mwajɛ̃ də sə dɔ̃
+--.*(&& komynike && ʃoz && mwajɛ̃ && dɔ̃).*#Il y a au moins quatre mots faciles à identifier : un verbe et trois noms.
+--.*(&& də && le && paʁ lə && də sə ).*#Attention aux prépositions et aux déterminants.
+--.*(&& sə ki && kil).*#Attention au pronom indéfini et aux pronoms relatifs qui sont parfois clitiques sur le mot suivant.
+--.*(&&ɑ̃peʃɛ &&avɛ apχiz).*#Attention aux verbes conjugués et au participe passé.
+--.*(&& lɑ̃peʃɛ && kilavɛ ).*#Attention aux clitiques objet et sujet qui ne forment qu'un seul mot avec le verbe conjugué.
+
+#EXM;Le rose qu'on nous propose d'avoir les quantités d'choses qui donnent envie d'autre chose.
+lə ʁoz kɔ̃nupʁopoz davwaʁ le kɑ̃tite dʃoz ki dɔn ɑ̃vi dotʁə ʃoz
+--.*(&& ʁoz && kɑ̃tite &&ʃoz && dɔn ɑ̃vi & ʃoz).*#Il y a au moins six mots faciles à identifier : cinq noms et un verbe.
+--.*(&& lə && davwaʁ le && dʃoz && dotʁə ).*#Attention aux prépositions et aux déterminants, notamment celles qui sont clitiques sur le mot suivant.
+--.*(&& kɔ̃&& ki ).*#Attention aux pronoms relatifs qui sont parfois clitiques sur le mot suivant.
+--.* kɔ̃nupʁopoz .*#Attention aux clitiques objet et sujet qui ne forment qu'un seul mot avec le verbe conjugué.
+
+#EXM;On nous fait croire que le bonheur c'est d'avoir de l'avoir plein nos armoires.
+ɔ̃nufe kʁwaʁ kə lə bonœʁ se davwaʁ də lavwaʁ plɛ̃ noz aʁmwaʁ
+--.*(&& kʁwaʁ && bonœʁ && aʁmwaʁ).*#Il y a au moins trois mots faciles à identifier : deux noms et un verbe.
+--.*(&& lə && də lavwaʁ && noz ).*#Attention aux prépositions et aux déterminants, notamment ceux qui sont clitiques sur le mot suivant.
+--.*(&& kə && plɛ̃ ).*#Attention à la conjonction et à l'adverbe.
+--.*(&&ɔ̃nufe && se ).*#Attention aux clitiques objet et sujet qui ne forment qu'un seul mot avec le verbe conjugué.
+
+
+#EXM;Dérisions de nous dérisoires car, foule sentimentale, on a soif d'idéal.
+deʁizjɔ̃ də nu deʁizwaʁ kaʁ ful sɑ̃timɑ̃talə ɔ̃na swaf dideal
+--.*(&&deʁizjɔ̃ && deʁizwaʁ && ful sɑ̃timɑ̃talə && swaf ).*#Il y a au moins cinq mots faciles à identifier : trois noms et deux adjectifs.
+--.*(&& də && dideal).*#Attention aux prépositions et aux déterminants, notamment celles qui sont clitiques sur le mot suivant.
+--.*(&& nu && kaʁ ).*#Attention à la conjonction et au pronom fort.
+--.* ɔ̃na .*#Attention au clitique sujet qui ne forme qu'un seul mot avec le verbe conjugué.
+
+#EXM;Foule sentimentale, il faut voir comme on nous parle.
+ful sɑ̃timɑ̃talə ilfo vwaʁ kɔmə ɔ̃nupaʁl
+--.*(&&ful sɑ̃timɑ̃talə && vwaʁ ).*#Il y a au moins trois mots faciles à identifier : un nom, un verbe et un adjectif.
+--.* kɔmə .*#Attention à la conjonction.
+--.*(&& ilfo && ɔ̃nupaʁl).*#Attention aux clitiques objet et sujet qui ne forment qu'un seul mot avec le verbe conjugué.
+
+#EXM;Il se dégage de ces cartons d'emballage des gens lavés, hors d'usage.
+ilsədegaʒ də se kaʁtɔ̃ dɑ̃balaʒ de ʒɑ̃ lave ɔʁ dyzaʒ
+--.*(&& kaʁtɔ̃ && ʒɑ̃ lave ).*#Il y a au moins trois mots faciles à identifier : deux noms et un participe passé.
+--.*(&& də se && dɑ̃balaʒ de ʒɑ̃ && ɔʁ dyzaʒ).*#Attention aux prépositions et aux déterminants, notamment celles qui sont clitiques sur le mot suivant.
+--.*ilsədegaʒ .*#Attention aux clitiques objet et sujet qui ne forment qu'un seul mot avec le verbe conjugué.
+
+#EXM;Et tristes et sans aucun avantage, on nous inflige des désirs qui nous affligent.
+e tʁist e sɑ̃z okœ̃n avɑ̃taʒ ɔ̃nuzɛ̃fliʒ de deziʁ ki nuzafliʒ
+--.*(&& tʁist && avɑ̃taʒ && deziʁ ).*#Il y a au moins trois mots faciles à identifier : deux noms et un adjectif.
+--.*(&&e && e && ki ).*#Attention aux conjonctions et au pronom relatif.
+--.*(&& sɑ̃z okœ̃n && de ).*#Attention aux prépositions et aux déterminants.
+--.*(&& ɔ̃nuzɛ̃fliʒ && nuzafliʒ).*#Attention aux clitiques objet et sujet qui ne forment qu'un seul mot avec le verbe conjugué.
+
+#EXM;On nous prend, faut pas déconner, dès qu'on est nés pour des cons.
+ɔ̃nupʁɑ̃ fo pa dekone de kɔ̃ne ne puʁ de kɔ̃
+--.*(&& dekone && ne && kɔ̃).*#Il y a au moins trois mots faciles à identifier : un nom, un infinitif et un participe passé.
+--.*(&& de && puʁ de ).*#Attention aux prépositions et aux déterminants.
+--.*(&& pa && kɔ̃).*#Attention à la négation et à la conjonction clitique.
+--.*(&&ɔ̃nupʁɑ̃ && kɔ̃ne ).*#Attention aux clitiques objet et sujet qui ne forment qu'un seul mot avec le verbe conjugué.
+
+#EXM;Il a tourné sa vie dans tous les sens pour savoir si ça avait un sens l'existence.
+ila tuʁne sa vi dɑ̃ tu le sɑ̃s puʁ savwaʁ si sa ave œ̃ sɑ̃s lɛgzistɑ̃s
+--.*(&& tuʁne && vi && sɑ̃s && savwaʁ && sɑ̃s ).*#Il y a au moins cinq mots faciles à identifier : trois noms, un infinitif et un participe passé.
+--.*(&& sa && dɑ̃ tu le && puʁ && œ̃ && lɛgzistɑ̃s).*#Attention aux prépositions et aux déterminants, notamment celui qui est clitique sur le mot suivant.
+--.* si sa .*#Attention à la conjonction et au pronom fort.
+--.*ila .*#Attention au clitique sujet qui ne forme qu'un seul mot avec le verbe conjugué.
+
+#EXM;Il a demandé leur avis à des tas de gens ravis, ravis, de donner leur avis sur la vie.
+ila dəmɑ̃de lœʁ avi a de ta də ʒɑ̃ ʁavi ʁavi də done lœʁ avi syʁ la vi
+--.*(&& dəmɑ̃de && avi && ta && ʒɑ̃ && ʁavi ʁavi && done && avi &&vi).*#Il y a au moins neuf mots faciles à identifier : cinq noms, deux infinitifs et un adjectif.
+--.*(&& lœʁ && a de && də && də && lœʁ && syʁ la ).*#Attention aux prépositions et aux déterminants.
+--.*ila .*#Attention au clitique sujet qui ne forme qu'un seul mot avec le verbe conjugué.
+
+#EXM;Il a traversé les vapeurs des derviches tourneurs des haschich fumeurs et il a dit : « la vie ne vaut rien, rien, la vie ne vaut rien ».
+ila tʁavɛʁse le vapœʁ de dɛʁviʃ tuʁnœʁ de aʃiʃ fymœʁ e ila di la vi nəvo ʁjɛ̃ ʁjɛ̃ la vi nəvo ʁjɛ̃
+--.*(&& tʁavɛʁse && vapœʁ && dɛʁviʃ tuʁnœʁ && aʃiʃ fymœʁ && di && vi && vi ).*#Il y a au moins neuf mots faciles à identifier : quatre noms, un infinitif, deux adjectifs et un participe passé.
+--.*(&& le && de && de && e && la && la ).*#Attention aux prépositions, aux déterminants et à la conjonction.
+--.*ila .*#Attention au clitique sujet qui ne forme qu'un seul mot avec le verbe conjugué.
+--.*(&& nəvo && nəvo).*#Attention à la négation clitique qui ne forme qu'un seul mot avec le verbe conjugué.
+
+#EXM;Mais moi quand je tiens, tiens, mais moi quand je tiens, là, dans mes deux mains éblouies.
+me mwa kɑ̃ ʒətjɛ̃ tjɛ̃ me mwa kɑ̃ ʒətjɛ̃ la dɑ̃ me dø mɛ̃z eblui
+--.*(&& mwa && mwa && mɛ̃&& eblui).*#Il y a au moins quatre mots faciles à identifier : un pronom fort, un nom et un adjectif.
+--.*(&&me && kɑ̃ && me && kɑ̃ && la dɑ̃ me dø ).*#Attention aux prépositions, aux déterminants et aux conjonctions.
+--.*(&& ʒətjɛ̃ && ʒətjɛ̃ ).*#Attention au clitique sujet qui ne forme qu'un seul mot avec le verbe conjugué.
+
+#EXM;Il a vu manque d'amour, manque d'argent, comme la vie c'est détergeant et comme ça nettoie les gens.
+ila vy mɑ̃k damuʁ mɑ̃k daʁʒɑ̃ kɔm la vi se detɛʁʒɑ̃ e kɔm sa netwa le ʒɑ̃
+--.*(&& vy mɑ̃k &&amuʁ mɑ̃k &&aʁʒɑ̃ && vi && detɛʁʒɑ̃ && ʒɑ̃).*#Il y a au moins huit mots faciles à identifier : cinq noms, un participe passé et un adjectif.
+--.*(&& damuʁ && daʁʒɑ̃ && kɔm la && e kɔm && le ).*#Attention aux prépositions, aux déterminants et aux conjonctions, notamment celles qui sont clitiques sur le mot suivant.
+--.*(&&ila && se ).*#Attention au clitique sujet qui ne forme qu'un seul mot avec le verbe conjugué.
+
+#EXM;Il a vu l'espace qui passe entre la jet set les fastes, les palaces et puis les techniciens de surface.
+ila vy lɛspas ki pas ɑ̃tʁ la dʒɛtsɛt le fast le palas e pɥi le tɛknisjɛ̃ də syʁfas
+--.*(&& vy &&ɛspas && fast && palas && tɛknisjɛ̃ && syʁfas).*#Il y a au moins six mots faciles à identifier : cinq noms et un participe passé.
+--.*(&& ki && dʒɛtsɛt && e pɥi ).*#Attention au pronom relatif, à l'emprunt et aux conjonctions.
+--.*(&& lɛspas && ɑ̃tʁ la && le && le && le && də ).*#Attention aux prépositions et aux déterminants, notamment celui qui est clitique sur le mot suivant 
+--.*ila .*#Attention au clitique sujet qui ne forme qu'un seul mot avec le verbe conjugué.
+
