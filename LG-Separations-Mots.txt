@@ -9,7 +9,7 @@ amɛnmwa œ̃n uvʁəbwat də la kɥizin
 #EXM;Cet enfant est arrivé au lycée en bus.
 sɛt ɑ̃fɑ̃ ɛt aʁive o lise ɑ̃ bys
 --.*(&& ɑ̃fɑ̃ && aʁive && lise && bys).*#Il y a au moins quatre mots simples faciles à identifier : trois noms et un verbe .
---.*sɛt .*#Attention au démonstratif.
+--sɛt .*#Attention au démonstratif.
 --.* ɛt .*#Attention à la liaison avec le verbe.
 
 #EXM;De la sauce est tombée de la louche sur ses chaussures.
@@ -22,7 +22,7 @@ dəla sos ɛ tɔ̃be də la luʃ syʁ se ʃosyʁ
 #EXM;Deux amis se sont assis au bar.
 døz ami səsɔ̃t asi o baʁ
 --.*(&& ami && asi && baʁ).*#Il y a au moins trois mots simples faciles à identifier : deux noms et un verbe.
---.*døz.*#Attention à la liaison avec le numéral.
+--døz .*#Attention à la liaison avec le numéral.
 --.*sɔ̃t .*#Attention à la liaison avec le verbe.
 --.* səsɔ̃t .*#Attention au clitique réfléchi qui forme un seul mot avec le verbe conjugué.
 
@@ -36,7 +36,7 @@ emili la miz dɑ̃ sɔ̃ potofø sə matɛ̃
 #EXM;Les étudiants n'arrivent pas en avance.
 lez etydjɑ̃ naʁiv pa ɑ̃n avɑ̃s
 --.*(&& etydjɑ̃ && pa && avɑ̃s).*#Il y a au moins trois mots simples faciles à identifier : deux noms et une négation.
---.*lez .*#Attention au défini pluriel.
+--lez .*#Attention au défini pluriel.
 --.* ɑ̃n .*#Attention à la liaison de la préposition.
 --.* naʁiv .*#Attention, la négation préverbale est un clitique pour les verbes conjugués.
 
@@ -63,7 +63,7 @@ kamij ɑ̃na mi paʁtu syʁ tez afɛʁ
 
 #EXM;Donne-le-lui avant le début de la deuxième mi-temps.
 dɔnləlɥi avɑ̃ lə deby də la døzjɛm mitɑ̃
---.*(&& deby && døzjɛm && avɑ̃).*#Il y a au moins trois mots simples faciles à identifier : une préposition, un nom et un adjectif.
+--.*(&& avɑ̃ && deby && døzjɛm ).*#Il y a au moins trois mots simples faciles à identifier : une préposition, un nom et un adjectif.
 --.* mitɑ̃#Attention au nom composé.
 --dɔnlə.*#Attention au clitique objet qui forme un seul mot avec le verbe conjugué.
 --dɔnləlɥi .*#Attention au clitique datif qui forme un seul mot avec le verbe conjugué.
@@ -173,7 +173,7 @@ sə ki lɑ̃peʃɛ də komynike le ʃoz kilavɛ apχiz paʁ lə mwajɛ̃ də sə
 #EXM;Le rose qu'on nous propose d'avoir les quantités d'choses qui donnent envie d'autre chose.
 lə ʁoz kɔ̃nupʁopoz davwaʁ le kɑ̃tite dʃoz ki dɔn ɑ̃vi dotʁə ʃoz
 --.*(&& ʁoz && kɑ̃tite &&ʃoz && dɔn ɑ̃vi & ʃoz).*#Il y a au moins six mots faciles à identifier : cinq noms et un verbe.
---.*(&& lə && davwaʁ le && dʃoz && dotʁə ).*#Attention aux prépositions et aux déterminants, notamment celles qui sont clitiques sur le mot suivant.
+--.*(&&lə && davwaʁ le && dʃoz && dotʁə ).*#Attention aux prépositions et aux déterminants, notamment celles qui sont clitiques sur le mot suivant.
 --.*(&& kɔ̃&& ki ).*#Attention aux pronoms relatifs qui sont parfois clitiques sur le mot suivant.
 --.* kɔ̃nupʁopoz .*#Attention aux clitiques objet et sujet qui ne forment qu'un seul mot avec le verbe conjugué.
 
@@ -227,7 +227,7 @@ ila tuʁne sa vi dɑ̃ tu le sɑ̃s puʁ savwaʁ si sa ave œ̃ sɑ̃s lɛgzist�
 
 #EXM;Il a demandé leur avis à des tas de gens ravis, ravis, de donner leur avis sur la vie.
 ila dəmɑ̃de lœʁ avi a de ta də ʒɑ̃ ʁavi ʁavi də done lœʁ avi syʁ la vi
---.*(&& dəmɑ̃de && avi && ta && ʒɑ̃ && ʁavi ʁavi && done && avi &&vi).*#Il y a au moins neuf mots faciles à identifier : cinq noms, deux infinitifs et un adjectif.
+--.*(&& dəmɑ̃de && avi && ta && ʒɑ̃ && ʁavi ʁavi && done && avi && vi).*#Il y a au moins neuf mots faciles à identifier : cinq noms, deux infinitifs et un adjectif.
 --.*(&& lœʁ && a de && də && də && lœʁ && syʁ la ).*#Attention aux prépositions et aux déterminants.
 --.*ila .*#Attention au clitique sujet qui ne forme qu'un seul mot avec le verbe conjugué.
 

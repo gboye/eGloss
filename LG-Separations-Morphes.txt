@@ -1,0 +1,380 @@
+#EXM;Amène-moi un ouvre-boîte de la cuisine.
+amɛn=mwa œ̃-n uvʁə-bwat də l-a kɥizin
+--.* kɥizin#Il y a un nom facile à identifier.
+--.* uvʁə-bwat .*#Attention au nom composé.
+--.* d-?ə l-?a .*#Attention à la préposition.
+--.* də .*#Considérez la préposition comme un seul morphe.
+--.* œ̃-n .*#Attention à la liaison avec l'indéfini.
+--.* l-a .*#Attention à l'accord du défini.
+--amɛn(-|=)?mwa .*#Attention au clitique datif qui forme un seul mot avec le verbe conjugué.
+--amɛn=mwa .*#Attention à la notation du clitique datif.
+
+#EXM;Cet enfant est arrivé au lycée en bus.
+s-ɛt ɑ̃fɑ̃ ɛ-t aʁiv-e o lise ɑ̃ bys
+--.*(&& ɑ̃fɑ̃ && aʁiv-?e && lise && bys).*#Il y a au moins quatre mots simples faciles à identifier : trois noms et un verbe .
+--s-?ɛt .*#Attention au démonstratif.
+--.* ɛ-?t .*#Attention à la liaison avec le verbe.
+--.* aʁiv-e .*#Attention à la marque de l'infinitif.
+--s-ɛt .*#Attention à l'accord du démonstratif.
+--.* ɛ-t .*#Attention à la marque de liaison du verbe.
+
+#EXM;De la sauce est tombée de la louche sur ses chaussures.
+d-əla sos ɛ tɔ̃b-e də l-a luʃ syʁ se ʃosyʁ
+--.*(&& sos && tɔ̃b-?e && luʃ && ʃosyʁ).*#Il y a au moins quatre mots simples faciles à identifier : trois noms et un verbe .
+--.* syʁ .*#Attention à la préposition locative.
+--d-?əla sos.*#Attention au partitif.
+--.* d-?ə l-?a luʃ.*#Attention à la préposition.
+--.*tɔ̃b-?e də .*#Considérez la préposition comme un seul morphe.
+--.* tɔ̃b-e .*#Attention à la marque du participe passé.
+--.* də l-a luʃ.*#Attention à l'accord du défini.
+--d-əla sos.*#Attention à l'accord du partitif.
+
+#EXM;Deux amis se sont assis au bar.
+dø-z ami s-ə=sɔ̃-t asi o baʁ
+--.*(&& ami && as-?i && baʁ).*#Il y a au moins trois mots simples faciles à identifier : deux noms et un verbe.
+--.* asi .*#Considérez le participe passé comme un seul morphe.
+--dø-?z .*#Attention à la liaison avec le numéral.
+--dø-z .*#Attention à la marque de liaison sur le numéral.
+--.*sɔ̃-?t .*#Attention à la liaison avec le verbe.
+--.*sɔ̃-t .*#Attention à la marque de liaison sur le verbe.
+--.* s-?ə(-|=)?sɔ̃-t .*#Attention au clitique réfléchi qui forme un seul mot avec le verbe conjugué.
+--.* s-?ə=sɔ̃-t .*#Attention à la notation du clitique réfléchi.
+--.* s-ə=sɔ̃-t .*#Attention à la variation du clitique réfléchi.
+
+#EXM;Émilie l'a mise dans son pot-au-feu ce matin.
+emili l=a mi-z dɑ̃ s-ɔ̃ potofø s-ə matɛ̃
+--.*(&&emili && mi-?z && matɛ̃).*#Il y a au moins trois mots faciles à identifier : deux noms et un verbe.
+--.* potofø .*#Considérez le nom composé comme un seul morphe.
+--.*(&& dɑ̃ && s-?ɔ̃ && s-?ə ).*#Attention à la forme de la préposition et des déterminants.
+--.* l(-|=)?a .*#Attention au clitique objet qui forme un seul mot avec le verbe conjugué.
+--.* mi-z .*#Attention à la marque de liaison sur le participe.
+--.* s-ɔ̃ .*#Attention à l'accord du possessif.
+--.* s-ə .*#Attention à l'accord du démonstratif.
+--.* l=a .*#Attention à la notation du clitique objet.
+
+#EXM;Les étudiants n'arrivent pas en avance.
+l-e-z etydjɑ̃ n=aʁiv pa ɑ̃-n avɑ̃s
+--.*(&& etydjɑ̃ && pa && avɑ̃s).*#Il y a au moins trois mots simples faciles à identifier : deux noms et une négation.
+--l-?e-?z .*#Attention au défini pluriel.
+--.* ɑ̃-?n .*#Attention à la liaison de la préposition.
+--.* n(-|=)?aʁiv .*#Attention, la négation préverbale est un clitique pour les verbes conjugués.
+--l-e-z .*#Attention à l'accord et à la liaison du défini pluriel.
+--.* ɑ̃-n .*#Attention à la marque de liaison de la préposition.
+--.* n=aʁiv .*#Attention à la notation de la négation préverbale clitique.
+
+#EXM;Son idée saugrenue ne vient pas de moi.
+s-ɔ̃-n ide sogʁəny n-ə=vjɛ̃ pa də mwa
+--.*(&& ide && sogʁəny && mwa).*#Il y a au moins trois mots faciles à identifier : un nom, un adjectif et un pronom.
+--s-?ɔ̃-?n .*#Attention au possessif.
+--.* pa .*#Attention à la négation post-verbale.
+--.* də .*#Considérez la préposition comme un seul morphe.
+--.* n-?ə(-|=)?vjɛ̃ .*#Attention la négation pré-verbale qui est clitique pour les verbes conjugués.
+--s-ɔ̃-n .*#Attention aux marques d'accord et de liaison du possessif.
+--.* n-ə=vjɛ̃ .*#Attention à la notation de la négation préverbale clitique.
+
+#EXM;Un savant anglais me l'a dit.
+œ̃ savɑ̃-t ɑ̃glɛ m-ə=l=a di
+--.*(&& ɑ̃glɛ && di).*#Il y a au moins deux mots simples faciles à identifier : un nom et un verbe.
+--.* savɑ̃-?t .*#Attention à la forme de l'adjectif.
+--.*l(-|=)?a di#Attention au clitique objet qui forme un seul mot avec le verbe conjugué.
+--.* m-?ə(-|=)?l(-|=)?a .*#Attention au clitique datif qui fait partie du verbe conjugué.
+--.*l=a di#Attention à la notation du clitique objet.
+--.* m-ə=l=a .*#Attention à la notation du clitique datif et à sa variation.
+
+#EXM;Camille en a mis partout sur tes affaires.
+kamij ɑ̃-n=a mi paʁtu syʁ t-e-z afɛʁ
+--.*(&&kamij && m-?i && afɛʁ).*#Il y a au moins trois mots simples faciles à identifier : deux noms et un verbe.
+--.* paʁtu .*#Attention à l'adverbe.
+--.* mi .*#Considérez le participe comme un seul morphe.
+--.* t-?e-?z .*#Attention à la forme du possessif.
+--.* ɑ̃-?n(-|=)?a .*#Attention au clitique objet qui fait partie du verbe conjugué.
+--.* t-e-z .*#Attention aux marques d'accord et de liaison du possessif.
+--.* ɑ̃-n=a .*#Attention à la notation du clitique objet et à sa variation.
+
+#EXM;Donne-le-lui avant le début de la deuxième mi-temps.
+dɔn=l-ə=lɥi avɑ̃ l-ə deby də l-a døzjɛm mi-tɑ̃
+--.*(&& avɑ̃ && deby && døzjɛm ).*#Il y a au moins trois mots simples faciles à identifier : une préposition, un nom et un adjectif.
+--.* mi-?tɑ̃#Attention au nom composé.
+--.* mi-tɑ̃#Considérez le nom composé comme deux morphes.
+--.*(&& l-ə deby && l-a døzjɛm ).*#Attention aux marques d'accord des définis.
+--dɔn(-|=)?l-?ə.*#Attention au clitique objet qui forme un seul mot avec le verbe conjugué.
+--dɔn(-|=)?l-?ə(-|=)?lɥi .*#Attention au clitique datif qui forme un seul mot avec le verbe conjugué.
+--dɔn=l-ə.*#Attention à la notation du clitique objet.
+--dɔn=l-ə=lɥi .*#Attention à la notation du clitique datif.
+
+#EXM;Vas le lui dire en face aux yeux de tout le monde.
+va l-ə=lɥi=di-ʁ ɑ̃ fas o-z jø də tu l-ə mɔ̃d
+--.*(&& fas && tu && mɔ̃d).*#Il y a au moins trois mots simples faciles à identifier : deux noms et un adverbe.
+--.*(&&va && jø ).*#Attention au verbe conjugué et au nom irrégulier.
+--.*(&& o-z && l-ə ).*#Attention aux marques sur les définis.
+--.*lɥi(-|=)?diʁ.*#Attention au clitique datif qui forme un seul mot avec le verbe.
+--.* l-?ə(-|=)?lɥi(-|=)?diʁ .*#Attention au clitique objet qui forme un seul mot avec le verbe.
+--.*lɥi=diʁ.*#Attention à la notation du clitique datif.
+--.* l-ə=lɥi=diʁ .*#Attention à la notation du clitique objet.
+
+#EXM;Laisse-moi la regarder chanter ce poème aujourd'hui.
+lɛs=mwa l-a=ʁəgaʁd-e ʃɑ̃t-e s-ə poɛm oʒuʁdɥi
+--.*(&& ʃɑ̃t-?e && poɛm ).*#Il y a au moins deux mots simples faciles à identifier : un nom et un verbe.
+--.*(&& s-?ə && o-?ʒuʁ-?d-?ɥi).*#Attention au démonstratif et au nom composé.
+--.* oʒuʁdɥi#Considérez le composé comme un seul morphe.
+--.*(&&ʁəgaʁd-e ʃɑ̃t-e s-ə ).*#Attention aux marques sur les infinitifs et le démonstratif.
+--.*lɛs(-|=)?mwa .*#Attention au clitique datif qui forme un seul mot avec le verbe conjugué.
+--.* l-?a(-|=)?ʁəgaʁd-e .*#Attention au clitique objet qui forme un seul mot avec le verbe.
+--.*lɛs=mwa .*#Attention à la notation du clitique datif.
+--.* l-a=ʁəgaʁd-e .*#Attention la notation du clitique objet.
+
+#EXM;J'en ai pris pour mon grade avec tes bêtises pendant les vacances.
+ʒ=ɑ̃-n=ɛ pʁi puʁ m-ɔ̃ gʁad avɛk t-e betiz pɑ̃dɑ̃ l-e vakɑ̃s
+--.*(&& pʁi && gʁad && betiz && vakɑ̃s).*#Il y a au moins quatre mots simples faciles à identifier : trois noms et un verbe.
+--.*(&& puʁ && avɛk && pɑ̃dɑ̃ ).*#Attention aux prépositions.
+--.*(&& m-ɔ̃ && t-e && l-e ).*#Attention aux accords sur les déterminants.
+--.*ɑ̃-?n(-|=)?ɛ.*#Attention au clitique objet qui forme un seul mot avec le verbe conjugué.
+--ʒ(-|=)?ɑ̃-?n(-|=)?ɛ .*#Attention au clitique sujet qui forme un seul mot avec le verbe conjugué.
+--.*ɑ̃-n=ɛ .*#Attention à la notation du clitique objet.
+--ʒ=ɑ̃-n=ɛ .*#Attention à la notation du clitique sujet.
+
+#EXM;Prends-le avec toi pour tes escapades italiennes.
+pʁɑ̃=l-ə avɛk twa puʁ t-e-z ɛskapad-z italj-ɛn
+--.*(&& twa && italj-?ɛn).*#Il y a au moins deux mots simples faciles à identifier : un pronom et un adjectif.
+--.*(&& avɛk && puʁ ).*#Attention aux prépositions.
+--.* t-?e-?z .*#Attention au possessif.
+--pʁɑ̃(-|=)?l-?ə .*#Attention au clitique objet qui forme un seul mot avec le verbe conjugué.
+--.* italj-ɛn .*#Considérez l'adjectif comme deux morphes.
+--.* t-e-z .*#Attention aux marques sur le possessif.
+--pʁɑ̃=l-ə .*#Attention à la notation du clitique objet et à ses variations.
+
+#EXM;Dans ton automobile, tous les deux, on sera bien.
+dɑ̃ t-ɔ̃-n otomobil tu l-e dø ɔ̃-sə-ʁa bjɛ̃
+--.*(&& otomobil && bjɛ̃).*#Il y a au moins deux mots simples faciles à identifier : un nom et un adjectif.
+--.*(&& dɑ̃ && tu ).*#Attention à la préposition et à l'adverbe.
+--.*(&& tɔ̃-?n && l-?e ).*#Attention aux déterminants.
+--.*(&& tɔ̃-n && l-e ).*#Attention aux marques sur les déterminants.
+--.*sə-ʁa .*#considérez la marque du futur comme un morphe.
+--.* ɔ̃(-|=)?sə-?ʁa .*#Attention au clitique sujet qui forme un seul mot avec le verbe conjugué.
+--.* ɔ̃=sə-ʁa .*#Attention à la notation du clitique sujet.
+
+#EXM;Et dans le ciel, il y aura des étoiles.
+e dɑ̃ l-ə sjɛl il=j=o-ʁa d-e-z etwal
+--.*(&& sjɛl && etwal).*#Il y a au moins deux mots simples faciles à identifier : deux noms.
+--.*(&& l-?ə && d-?e-?z ).*#Attention aux déterminants.
+--.*(&&e && dɑ̃ ).*#Attention à la conjonction et à la préposition.
+--.*(&& l-ə && d-e-z ).*#Attention aux marques d'accord sur les déterminants.
+--.*o-ʁa .*#Considérez la marque du futur comme un morphe.
+--.*j(-|=)?o-?ʁa .*#Attention au clitique figé qui forme un seul mot avec le verbe conjugué.
+--.* il(-|=)?j(-|=)?oʁa .*#Attention au clitique sujet qui forme un seul mot avec le verbe conjugué.
+--.*j=o-ʁa .*#Attention à la notation du clitique figé.
+--.* il=j=o-ʁa .*#Attention à la notation du clitique sujet.
+
+#EXM;Et du soleil, quand on mettra les voiles.
+e d-y solɛj kɑ̃-t ɔ̃=mɛt-ʁa l-e vwal
+--.*(&& solɛj && vwal).*#Il y a au moins deux mots simples faciles à identifier : deux noms.
+--.*(&& d-?y && l-?e ).*#Attention aux déterminants.
+--.*(&&e && kɑ̃-?t ).*#Attention aux conjonctions.
+--.*(&& d-y && l-e && kɑ̃-t ).*#Attention aux marques d'accord sur les déterminants et la liaison sur la conjonction.
+--.*mɛt-ʁa .*#Considérez la marque du futur comme un morphe.
+--.* ɔ̃(-|=)?mɛt-ʁa .*#Attention au clitique sujet qui forme un seul mot avec le verbe conjugué.
+--.* ɔ̃=mɛt-ʁa .*#Attention à la notation du clitique sujet.
+
+#EXM;On s'en ira toute la vie danser le Calypso en Italie.
+ɔ̃=s=ɑ̃-n=i-ʁa tu-t l-a vi dɑ̃s-e l-ə kalipso ɑ̃-n itali
+--.*(&& vi && dɑ̃s-?e && itali).*#Il y a au moins trois mots simples faciles à identifier : deux noms et un verbe.
+--.*(&& l-?a && l-?ə && kalipso).*#Attention à l'emprunt et aux déterminants.
+--.*(&& l-a && l-ə ).*#Attention aux marques d'accord sur les déterminants.
+--.*(&& tu-t && dɑ̃s-e ).*#Attention à la marque de l'infinitif et à l'accord sur le quantifieur.
+--.*i-ʁa .*#Considérez la marque du futur comme un morphe.
+--.*ɑ̃-?n(-|=)?i-?ʁa .*#Attention au clitique figé qui forme un seul mot avec le verbe conjugué.
+--.*s(-|=)?ɑ̃-?n(-|=)?i-?ʁa .*#Attention au clitique réfléchi qui forme un seul mot avec le verbe conjugué.
+--ɔ̃(-|=)?s(-|=)?ɑ̃-?n(-|=)?i-?ʁa .*#Attention au clitique sujet qui forme un seul mot avec le verbe conjugué.
+--.*ɑ̃-n=i-ʁa .*#Attention à la notation du clitique figé.
+--.*s=ɑ̃-n=i-ʁa .*#Attention à la notation du clitique réfléchi.
+--ɔ̃=s=ɑ̃-n=i-?ʁa .*#Attention à la notation du clitique sujet.
+
+#EXM;Un marchand très riche avait plusieurs maisons à la campagne.
+œ̃ maʁʃɑ̃ tχɛ ʁiʃ av-ɛ plyzjœʁ mɛzɔ̃ a l-a kɑ̃paɲ
+--.*(&& maʁʃɑ̃ && ʁiʃ && mɛzɔ̃ && kɑ̃paɲ).*#Il y a au moins quatre mots simples faciles à identifier : trois noms et un adjectif.
+--.*(&&œ̃ && tχɛ && plyzjœʁ && l-?a ).*#Attention aux déterminants et à l'adverbe.
+--.* av-?ɛ .*#Attention au verbe conjugué.
+--.* l-a .*#Attention aux marques d'accord sur les déterminants.
+--.* av-ɛ .*#Considérez la marque de l'imparfait comme un morphe.
+
+#EXM;Il faisait nourrir une grande quantité de toute sorte de bétail.
+il=fəz-ɛ nuʁi-ʁ yn gʁɑ̃-d kɑ̃tite də tu-t sɔχt də betaj
+--.*(&& kɑ̃tite && sɔχt && betaj).*#Il y a au moins trois noms faciles à identifier.
+--.*(&& yn && də tu-?t && də ).*#Attention aux prépositions et aux déterminants.
+--.*(&& nuʁi-?ʁ && gʁɑ̃-?d ).*#Attention à l'infinitif et à l'adjectif.
+--.*(&& fəz-ɛ && nuʁi-ʁ ).*#Considérez les marques de l'imparfait et de l'infinitif comme des morphes.
+--.*(&& gʁɑ̃-d && tu-t ).*#Attention aux marques d'accord sur l'adjectif et le quantifieur.
+--il(-|=)?fəz-?ɛ .*#Attention au clitique sujet qui forme un seul mot avec le verbe conjugué.
+--il=fəz-ɛ .*#Attention à la notation du clitique sujet.
+
+#EXM;Il se retira avec sa femme et ses enfants à une de ses terres, pour la faire valoir par lui-même.
+il=s-ə=ʁətiʁ-a avɛk s-a fɛm e s-e-z ɑ̃fɑ̃ a yn də s-e tɛʁ puʁ l-a=fɛ-ʁ valwa-ʁ paʁ lɥi-mɛm
+--.*(&& fɛm && ɑ̃fɑ̃ && tɛʁ).*#Il y a au moins trois noms faciles à identifier.
+--.*(&& avɛk s-?a && e s-?e-?z && a yn də s-?e && puʁ && paʁ ).*#Attention aux prépositions, aux déterminants et la coordination.
+--.*(&&fɛ-?ʁ valwa-?ʁ && lɥi-?mɛm).*#Attention aux infinitifs et au pronom réfléchi.
+--.*(&&fɛ-ʁ valwa-ʁ ).*#Considérez la marque de l'infinitif comme un morphe.
+--.* lɥi-mɛm.*#Considérez le pronom fort comme deux morphes.
+--.*(&&s-?ə(-|=)?ʁətiʁ-?a && l-?a(-|=)?fɛ-?ʁ ).*#Attention aux clitiques objets qui forment un seul mot avec le verbe conjugué.
+--il(-|=)?s-?ə(-|=)?ʁətiʁ-?a .*#Attention au clitique sujet qui forme un seul mot avec le verbe conjugué.
+--.*(&&s-ə=ʁətiʁ-a && l-a=fɛ-ʁ ).*#Attention à la notation des clitiques objets.
+--il=s-ə=ʁətiʁ-?a .*#Attention à la notation du clitique sujet.
+
+#EXM;Il avait le don d'entendre le langage des bêtes.
+il=av-ɛ l-ə dɔ̃ d=ɑ̃tɑ̃d-ʁ l-ə lɑ̃gaʒ d-e bɛt
+--.*(&& dɔ̃ &&ɑ̃tɑ̃d-?ʁ && lɑ̃gaʒ && bɛt).*#Il y a au moins quatre mots faciles à identifier : un verbe et deux noms.
+--.*(&& l-?ə && l-?ə && d-?e ).*#Attention aux prépositions et aux déterminants.
+--.* d(-|=)?ɑ̃tɑ̃d-?ʁ .*#Attention à la préposition élidée qui forme un seul mot avec l'infinitif.
+--.*(&& l-ə && l-ə && d-e ).*#Attention aux marques d'accord sur les déterminants.
+--.*ɑ̃tɑ̃d-ʁ .*#Considérez la marque de l'infinitif comme un morphe.
+--.* d=ɑ̃tɑ̃d-ʁ .*#Attention à la notation de la préposition élidée.
+--il(-|=)?av-?ɛ .*#Attention au clitique sujet qui forme un seul mot avec le verbe conjugué.
+--.*av-ɛ .*#Considérez la marque de l'imparfait comme un morphe.
+--il=av-ɛ .*#Attention à la notation du clitique sujet.
+
+#EXM;Mais avec cette condition, qu'il ne pouvait l'interpréter à personne, sans s'exposer à perdre la vie.
+mɛ-z avɛk s-ɛt kɔ̃disjɔ̃ k=il=n-ə=puv-ɛ l=ɛ̃tɛχpχɛt-e a pɛχsɔn sɑ̃ s=ɛkspoz-e a pɛʁd-ʁ l-a vi
+--.*(&& kɔ̃disjɔ̃ && pɛχsɔn &&ɛkspoz-?e && pɛʁd-?ʁ && vi).*#Il y a au moins cinq mots faciles à identifier : deux verbes et trois noms.
+--.*(&& avɛk s-?ɛt && a && sɑ̃ && l-?a ).*#Attention aux prépositions et aux déterminants.
+--.*(&&mɛ-?z && k(-|=)?il).*#Attention aux conjonctions, notamment celle qui ne forme qu'un mot avec le sujet.
+--.*(&&puv-ɛ &&ɛ̃tɛχpχɛt-e &&ɛkspoz-e && pɛʁd-ʁ ).*#Considérez les marques de l'infinitif et de l'imparfait comme un morphe.
+--.*(&& l(-|=)?ɛ̃tɛχpχɛt-?e && s(-|=)?ɛkspoz-?e ).*#Attention aux clitiques objets qui forment un seul mot avec l'infinitif.
+--.*il(-|=)?n-?ə(-|=)?puv-?ɛ .*#Attention au clitique sujet et la négation qui ne forment qu'un seul mot avec le verbe conjugué.
+--.*(&& l=ɛ̃tɛχpχɛt-e && s=ɛkspoz-e ).*#Attention à la notation des clitiques objets.
+--.*il=n-ə=puv-ɛ .*#Attention à la notation du clitique sujet et de la négation.
+
+#EXM;Ce qui l'empêchait de communiquer les choses qu'il avait apprises par le moyen de ce don.
+sə k-i l=ɑ̃peʃ-ɛ də komynik-e l-e ʃoz k=il=av-ɛ apχi-z paʁ l-ə mwajɛ̃ də s-ə dɔ̃
+--.*(&& komynik-?e && ʃoz && mwajɛ̃ && dɔ̃).*#Il y a au moins quatre mots faciles à identifier : un verbe et trois noms.
+--.*(&& də && l-?e && paʁ l-?ə && də s-?ə ).*#Attention aux prépositions et aux déterminants.
+--.*(&& sə k-?i && k(-|=)?il).*#Attention au pronom indéfini et aux pronoms relatifs qui sont parfois clitiques sur le mot suivant.
+--.*(&&ɑ̃peʃ-?ɛ &&av-?ɛ apχi-?z).*#Attention aux verbes conjugués et au participe passé.
+--.*(&& l-e && paʁ l-ə && də s-ə ).*#Attention aux marques d'accord sur les déterminants.
+--.* apχi-z .*#Attention à l'accord du participe passé.
+--.*(&&ɑ̃peʃ-ɛ &&av-ɛ ).*#Considérez les marques de l'infinitif et de l'imparfait comme un morphe.
+--.*(&& l(-|=)?ɑ̃peʃ-?ɛ && k(-|=)?il(-|=)?av-?ɛ ).*#Attention aux clitiques objet et sujet qui ne forment qu'un seul mot avec le verbe conjugué.
+--.*(&& l=ɑ̃peʃ-ɛ && k=il=av-ɛ ).*#Attention à la notation des clitiques objet et sujet.
+
+#EXM;Le rose qu'on nous propose d'avoir les quantités d'choses qui donnent envie d'autre chose.
+l-ə ʁoz k=ɔ̃=nu=pʁopoz d=avwa-ʁ l-e kɑ̃tite d=ʃoz k-i dɔn ɑ̃vi d=otʁə ʃoz
+--.*(&& ʁoz && kɑ̃tite &&ʃoz && dɔn ɑ̃vi & ʃoz).*#Il y a au moins six mots faciles à identifier : cinq noms et un verbe.
+--.*(&&l-?ə && d(-|=)?avwa-?ʁ l-?e && d(-|=)?ʃoz && d(-|=)?otʁə ).*#Attention aux prépositions et aux déterminants, notamment celles qui sont clitiques sur le mot suivant.
+--.*.*avwa-ʁ .*#Attention à la marque de l'infinitif.
+--.*(&& k(-|=)?ɔ̃&& k-?i ).*#Attention aux pronoms relatifs qui sont parfois clitiques sur le mot suivant.
+--.*(&&l-ə && && d=avwa-?ʁ l-e && d=ʃoz && d=otʁə ).*#Attention aux prépositions et aux déterminants, notamment celles qui sont clitiques sur le mot suivant.
+--.* k(-|=)?ɔ̃(-|=)?nu(-|=)?pʁopoz .*#Attention aux clitiques objet et sujet qui ne forment qu'un seul mot avec le verbe conjugué.
+--.* k=ɔ̃=nu=pʁopoz .*#Attention à la notation des clitiques objet et sujet.
+
+#EXM;On nous fait croire que le bonheur c'est d'avoir de l'avoir plein nos armoires.
+ɔ̃=nu=fe kʁwa-ʁ kə l-ə bonœʁ s=e d=avwa-ʁ dəl avwaʁ plɛ̃ no-z aʁmwaʁ
+--.*(&& kʁwa-?ʁ && bonœʁ && aʁmwaʁ).*#Il y a au moins trois mots faciles à identifier : deux noms et un verbe.
+--.*(&& l-?ə && d-?əl avwaʁ && no-?z ).*#Attention aux déterminants.
+--.* d(-|=)?avwa-?ʁ .*#Attention à la préposition clitique.
+--.*(&& k-?ə && plɛ̃ ).*#Attention à la conjonction et à l'adverbe.
+--.* kə .*#Considérez la conjonction comme un seul morphe.
+--.* d=avwa-ʁ .*#Attention à la notation de la préposition clitique et à la marque de l'infinitif.
+--.*(&&ɔ̃(-|=)?nu(-|=)?fe && s(-|=)?e ).*#Attention aux clitiques objet et sujet qui ne forment qu'un seul mot avec le verbe conjugué.
+--.*(&&ɔ̃=nu=fe && s=e ).*#Attention à la notation des clitiques objet et sujet.
+
+#EXM;Dérisions de nous dérisoires car, foule sentimentale, on a soif d'idéal.
+deʁizjɔ̃ də nu deʁizwaʁ kaʁ ful sɑ̃timɑ̃tal ɔ̃-n=a swaf d=ideal
+--.*(&&deʁizjɔ̃ && deʁizwaʁ && ful sɑ̃timɑ̃tal && swaf ).*#Il y a au moins cinq mots faciles à identifier : trois noms et deux adjectifs.
+--.*(&& də && d(-|=)?ideal).*#Attention aux prépositions et aux déterminants, notamment celles qui sont clitiques sur le mot suivant.
+--.*(&& nu && kaʁ ).*#Attention à la conjonction et au pronom fort.
+--.* d=ideal.*#Attention à la notation de la préposition clitique.
+--.* ɔ̃-?n(-|=)?a .*#Attention au clitique sujet qui ne forme qu'un seul mot avec le verbe conjugué.
+--.* ɔ̃-n=a .*#Attention à la notation du clitique sujet.
+
+#EXM;Foule sentimentale, il faut voir comme on nous parle.
+ful sɑ̃timɑ̃tal il=fo vwa-ʁ kɔm ɔ̃=nu=paʁl
+--.*(&&ful sɑ̃timɑ̃tal && vwa-?ʁ ).*#Il y a au moins trois mots faciles à identifier : un nom, un verbe et un adjectif.
+--.* kɔm .*#Attention à la conjonction.
+--.* vwa-ʁ .*#Considérez la marque de l'infinitif comme un morphe.
+--.*(&& il(-|=)?fo && ɔ̃(-|=)?nu(-|=)?paʁl).*#Attention aux clitiques objet et sujet qui ne forment qu'un seul mot avec le verbe conjugué.
+--.*(&& il=fo && ɔ̃=nu=paʁl).*#Attention à la notation des clitiques objet et sujet.
+
+#EXM;Il se dégage de ces cartons d'emballage des gens lavés, hors d'usage.
+il=s-ə=degaʒ də s-e kaʁtɔ̃ d=ɑ̃balaʒ d-e ʒɑ̃ lav-e ɔʁ d=yzaʒ
+--.*(&& kaʁtɔ̃ && ʒɑ̃ lav-?e ).*#Il y a au moins trois mots faciles à identifier : deux noms et un participe passé.
+--.*(&& də s-?e && d(-|=)?ɑ̃balaʒ d-e ʒɑ̃ && ɔʁ d(-|=)?yzaʒ).*#Attention aux prépositions et aux déterminants, notamment celles qui sont clitiques sur le mot suivant.
+--.*(&& də s-e && d-e ʒɑ̃ ).*#Attention aux marques d'accord des déterminants.
+--.*(&& d=ɑ̃balaʒ && d=yzaʒ).*#Attention à la notation des prépositions qui sont clitiques sur le mot suivant.
+--.*il(-|=)?s-?ə(-|=)?degaʒ .*#Attention aux clitiques objet et sujet qui ne forment qu'un seul mot avec le verbe conjugué.
+--.*il=s-ə=degaʒ .*#Attention à la notation des clitiques objet et sujet.
+
+#EXM;Et tristes et sans aucun avantage, on nous inflige des désirs qui nous affligent.
+e tʁist e sɑ̃-z okœ̃-n avɑ̃taʒ ɔ̃=nu-z=ɛ̃fliʒ d-e deziʁ k-i nu-z=afliʒ
+--.*(&& tʁist && avɑ̃taʒ && deziʁ ).*#Il y a au moins trois mots faciles à identifier : deux noms et un adjectif.
+--.*(&&e && e && k-?i ).*#Attention aux conjonctions et au pronom relatif.
+--.*(&& sɑ̃-?z ok-?œ̃-?n && d-?e ).*#Attention aux prépositions et aux déterminants.
+--.*(&& sɑ̃-z ok-?œ̃-n && d-e ).*#Attention aux marques sur les déterminants.
+--.* okœ̃-n .*#Considérez seulement la marque de liaison sur le quantifieur.
+--.* k-?i .*#Attention à la variation du pronom relatif.
+--.*(&& ɔ̃(-|=)?nu-?z(-|=)?ɛ̃fliʒ && nu-?z(-|=)?afliʒ).*#Attention aux clitiques objet et sujet qui ne forment qu'un seul mot avec le verbe conjugué.
+--.*(&& ɔ̃=nu-z=ɛ̃fliʒ && nu-z=afliʒ).*#Attention à la notation des clitiques objet et sujet.
+
+#EXM;On nous prend, faut pas déconner, dès qu'on est nés pour des cons.
+ɔ̃=nu=pʁɑ̃ fo pa dekon-e de k=ɔ̃-n=e ne puʁ d-e kɔ̃
+--.*(&& dekon-?e && n-?e && kɔ̃).*#Il y a au moins trois mots faciles à identifier : un nom, un infinitif et un participe passé.
+--.*(&& d-?e && puʁ d-?e ).*#Attention aux prépositions et aux déterminants.
+--.*(&& pa && k(-|=)?ɔ̃ && kɔ̃).*#Attention à la négation et à la conjonction clitique.
+--.*(&& dekon-e &&e ne ).*#Considérez la marque de l'infinitif comme un morphe mais pas celle du participe passé.
+--.*(&& de && puʁ d-e ).*#Attention à la différence entre la préposition et le déterminant.
+--.*(&&ɔ̃(-|=)?nu(-|=)?pʁɑ̃ && k(-|=)?ɔ̃-?n(-|=)?e ).*#Attention aux clitiques objet et sujet qui ne forment qu'un seul mot avec le verbe conjugué.
+--.*(&&ɔ̃=nu=pʁɑ̃ && k=ɔ̃-n=e ).*#Attention à la notation des clitiques objet et sujet.
+
+#EXM;Il a tourné sa vie dans tous les sens pour savoir si ça avait un sens l'existence.
+il=a tuʁn-e s-a vi dɑ̃ tu l-e sɑ̃s puʁ savwa-ʁ si sa av-e œ̃ sɑ̃s l=ɛgzistɑ̃s
+--.*(&& tuʁn-?e && vi && sɑ̃s && savwa-?ʁ && sɑ̃s ).*#Il y a au moins cinq mots faciles à identifier : trois noms, un infinitif et un participe passé.
+--.*(&& s-?a && dɑ̃ tu l-?e && puʁ && œ̃ && l(-|=)?ɛgzistɑ̃s).*#Attention aux prépositions et aux déterminants, notamment celui qui est clitique sur le mot suivant.
+--.* si sa .*#Attention à la conjonction et au pronom fort.
+--.*(&& tuʁn-e && savwa-ʁ ).*#Considérez les marques de l'infinitif et du participe passé comme un morphe.
+--.*(&& s-a && dɑ̃ tu l-e && l=ɛgzistɑ̃s).*#Attention aux marques sur les déterminants et à la cliticisation.
+--.*il(-|=)?a .*#Attention au clitique sujet qui ne forme qu'un seul mot avec le verbe conjugué.
+--.*il=a .*#Attention à la notation du clitique sujet.
+
+#EXM;Il a demandé leur avis à des tas de gens ravis, ravis, de donner leur avis sur la vie.
+il=a dəmɑ̃d-e lœʁ avi a d-e ta də ʒɑ̃ ʁavi ʁavi də don-e lœʁ avi syʁ l-a vi
+--.*(&& dəmɑ̃d-?e && avi && ta && ʒɑ̃ && ʁavi ʁavi && don-e && avi && vi).*#Il y a au moins neuf mots faciles à identifier : cinq noms, deux infinitifs et un adjectif.
+--.*(&& lœʁ && a d-?e && də && də && lœʁ && syʁ l-?a ).*#Attention aux prépositions et aux déterminants.
+--.*(&& a d-?e && syʁ l-?a ).*#Attention aux marques sur les déterminants.
+--.*(&& dəmɑ̃d-?e && don-e ).*#Considérez les marques de l'infinitif et du participe passé comme un morphe.
+--.*il(-|=)?a .*#Attention au clitique sujet qui ne forme qu'un seul mot avec le verbe conjugué.
+--.*il=a .*#Attention à la notation du clitique sujet.
+
+#EXM;Il a traversé les vapeurs des derviches tourneurs des haschich fumeurs et il a dit : « la vie ne vaut rien, rien, la vie ne vaut rien ».
+il=a tʁavɛʁs-e l-e vapœʁ d-e dɛʁviʃ tuʁnœʁ d-e aʃiʃ fymœʁ e il=a di l-a vi n-ə=vo ʁjɛ̃ ʁjɛ̃ l-a vi n-ə=vo ʁjɛ̃
+--.*(&& tʁavɛʁs-?e && vapœʁ && dɛʁviʃ tuʁnœʁ && aʃiʃ fymœʁ && di && vi && vi ).*#Il y a au moins neuf mots faciles à identifier : quatre noms, un infinitif, deux adjectifs et un participe passé.
+--.*(&& l-?e && d-?e && d-?e && e && l-?a && l-?a ).*#Attention aux prépositions, aux déterminants et à la conjonction.
+--.*(&& l-e && d-e && d-e && l-a && l-a ).*#Attention aux marques sur les déterminants.
+--.*il(-|=)?a .*#Attention au clitique sujet qui ne forme qu'un seul mot avec le verbe conjugué.
+--.*(&& n-?ə(-|=)?vo && n-?ə(-|=)?vo).*#Attention à la négation clitique qui ne forme qu'un seul mot avec le verbe conjugué.
+--.*il=a .*#Attention à la notation du clitique sujet.
+--.*(&& n-ə=vo && n-ə=vo).*#Attention à la notation des négations clitiques.
+
+#EXM;Mais moi quand je tiens, tiens, mais moi quand je tiens, là, dans mes deux mains éblouies.
+me mwa kɑ̃ ʒ-ə=tjɛ̃ tjɛ̃ me mwa kɑ̃ ʒ-ə=tjɛ̃ la dɑ̃ m-e dø mɛ̃-z eblui
+--.*(&& mwa && mwa && mɛ̃&& eblui).*#Il y a au moins quatre mots faciles à identifier : un pronom fort, un nom et un adjectif.
+--.*(&&me && kɑ̃ && me && kɑ̃ && la dɑ̃ m-?e dø ).*#Attention aux prépositions, aux déterminants et aux conjonctions.
+--.* m-?e dø mɛ̃-z .*#Attention aux marques d'accord sur les déterminants et à la liaison.
+--.*(&& ʒ-?ə(-|=)?tjɛ̃ && ʒ-?ə(-|=)?tjɛ̃ ).*#Attention au clitique sujet qui ne forme qu'un seul mot avec le verbe conjugué.
+--.*(&& ʒ-ə=tjɛ̃ && ʒ-ə=tjɛ̃ ).*#Attention à la notation des clitiques sujets.
+
+#EXM;Il a vu manque d'amour, manque d'argent, comme la vie c'est détergeant et comme ça nettoie les gens.
+il=a vy mɑ̃k d=amuʁ mɑ̃k d=aʁʒɑ̃ kɔm l-a vi s=e detɛʁʒɑ̃ e kɔm sa netwa l-e ʒɑ̃
+--.*(&& vy mɑ̃k &&amuʁ mɑ̃k &&aʁʒɑ̃ && vi && detɛʁʒɑ̃ && ʒɑ̃).*#Il y a au moins huit mots faciles à identifier : cinq noms, un participe passé et un adjectif.
+--.*(&& d(-|=)?amuʁ && d(-|=)?aʁʒɑ̃ && kɔm l-?a && e kɔm && l-?e ).*#Attention aux prépositions, aux déterminants et aux conjonctions, notamment celles qui sont clitiques sur le mot suivant.
+--.*(&& kɔm l-a && l-e ).*#Attention aux marques d'accord sur les déterminants.
+--.*(&& d=amuʁ && d=aʁʒɑ̃ ).*#Attention aux prépositions clitiques.
+--.*(&&il(-|=)?a && s(-|=)?e ).*#Attention aux clitiques sujets qui ne forme qu'un seul mot avec le verbe conjugué.
+--.*(&&il=a && s=e ).*#Attention à la notation des clitiques sujets.
+
+#EXM;Il a vu l'espace qui passe entre la jet set les fastes, les palaces et puis les techniciens de surface.
+il=a vy l=ɛspas k-i pas ɑ̃tʁ l-a dʒɛt-sɛt l-e fast l-e palas e pɥi l-e tɛknisjɛ̃ də syʁfas
+--.*(&& v-?y &&ɛspas && fast && palas && tɛknisjɛ̃ && syʁfas).*#Il y a au moins six mots faciles à identifier : cinq noms et un participe passé.
+--.*(&& k-?i && dʒɛt-?sɛt && e pɥi ).*#Attention au pronom relatif, à l'emprunt et aux conjonctions.
+--.*(&& l(-|=)?ɛspas && ɑ̃tʁ l-?a && l-?e && l-?e && l-?e && də ).*#Attention aux prépositions et aux déterminants, notamment celui qui est clitique sur le mot suivant 
+--.*(&& l=ɛspas && ɑ̃tʁ l-a && l-e && l-e && l-e ).*#Attention aux marques d'accord sur les déterminants, et à celui qui est clitique sur le mot suivant 
+--.*(&& vy && k-i && dʒɛt-sɛt ).*#Considérez le participe passé comme un seul morphe mais deux morphes pour le relatif et le composé.
+--.*il(-|=)?a .*#Attention au clitique sujet qui ne forme qu'un seul mot avec le verbe conjugué.
+--.*il=a .*#Attention à la notation du clitique sujet.
+
