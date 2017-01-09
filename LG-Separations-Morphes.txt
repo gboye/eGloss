@@ -135,11 +135,11 @@ lɛs=mwa l-a=ʁəgaʁd-e ʃɑ̃t-e s-ə poɛm oʒuʁdɥi
 
 #EXM;Prends-le avec toi pour tes escapades italiennes.
 pʁɑ̃=l-ə avɛk twa puʁ t-e-z ɛskapad-z italj-ɛn
---.*(&& twa && italj-?ɛn).*#Il y a au moins deux mots simples faciles à identifier : un pronom et un adjectif.
+--.*(&& twa && italj-?ɛ-?n).*#Il y a au moins deux mots simples faciles à identifier : un pronom et un adjectif.
 --.*(&& avɛk && puʁ ).*#Attention aux prépositions.
 --.* t-?e-?z .*#Attention au possessif.
 --pʁɑ̃(-|=)?l-?ə .*#Attention au clitique objet qui forme un seul mot avec le verbe conjugué.
---.* italj-ɛn .*#Considérez l'adjectif comme deux morphes.
+--.* italj-ɛn .*#Considérez l'adjectif comme deux morphes (pensez à l'alternance entre M et F).
 --.* t-e-z .*#Attention aux marques sur le possessif.
 --pʁɑ̃=l-ə .*#Attention à la notation du clitique objet et à ses variations.
 
@@ -157,7 +157,7 @@ dɑ̃ t-ɔ̃-n otomobil tu l-e dø ɔ̃-sə-ʁa bjɛ̃
 e dɑ̃ l-ə sjɛl il=j=o-ʁa d-e-z etwal
 --.*(&& sjɛl && etwal).*#Il y a au moins deux mots simples faciles à identifier : deux noms.
 --.*(&& l-?ə && d-?e-?z ).*#Attention aux déterminants.
---.*(&&e && dɑ̃ ).*#Attention à la conjonction et à la préposition.
+--.*(&&e dɑ̃ ).*#Attention à la conjonction et à la préposition.
 --.*(&& l-ə && d-e-z ).*#Attention aux marques d'accord sur les déterminants.
 --.*o-ʁa .*#Considérez la marque du futur comme un morphe.
 --.*j(-|=)?o-?ʁa .*#Attention au clitique figé qui forme un seul mot avec le verbe conjugué.
@@ -177,7 +177,7 @@ e d-y solɛj kɑ̃-t ɔ̃=mɛt-ʁa l-e vwal
 
 #EXM;On s'en ira toute la vie danser le Calypso en Italie.
 ɔ̃=s=ɑ̃-n=i-ʁa tu-t l-a vi dɑ̃s-e l-ə kalipso ɑ̃-n itali
---.*(&& vi && dɑ̃s-?e && itali).*#Il y a au moins trois mots simples faciles à identifier : deux noms et un verbe.
+--.*(&& vi dɑ̃s-?e && itali).*#Il y a au moins trois mots simples faciles à identifier : deux noms et un verbe.
 --.*(&& l-?a && l-?ə && kalipso).*#Attention à l'emprunt et aux déterminants.
 --.*(&& l-a && l-ə ).*#Attention aux marques d'accord sur les déterminants.
 --.*(&& tu-t && dɑ̃s-e ).*#Attention à la marque de l'infinitif et à l'accord sur le quantifieur.
@@ -212,7 +212,7 @@ il=s-ə=ʁətiʁ-a avɛk s-a fɛm e s-e-z ɑ̃fɑ̃ a yn də s-e tɛʁ puʁ l-a=
 --.*(&& fɛm && ɑ̃fɑ̃ && tɛʁ).*#Il y a au moins trois noms faciles à identifier.
 --.*(&& avɛk s-?a && e s-?e-?z && a yn də s-?e && puʁ && paʁ ).*#Attention aux prépositions, aux déterminants et la coordination.
 --.*(&&fɛ-?ʁ valwa-?ʁ && lɥi-?mɛm).*#Attention aux infinitifs et au pronom réfléchi.
---.*(&&fɛ-ʁ valwa-ʁ ).*#Considérez la marque de l'infinitif comme un morphe.
+--.*(&&ʁətiʁ-a &&fɛ-ʁ valwa-ʁ ).*#Considérez la marque de l'infinitif et du passé simple comme un morphe.
 --.* lɥi-mɛm.*#Considérez le pronom fort comme deux morphes.
 --.*(&&s-?ə(-|=)?ʁətiʁ-?a && l-?a(-|=)?fɛ-?ʁ ).*#Attention aux clitiques objets qui forment un seul mot avec le verbe conjugué.
 --il(-|=)?s-?ə(-|=)?ʁətiʁ-?a .*#Attention au clitique sujet qui forme un seul mot avec le verbe conjugué.
@@ -362,7 +362,7 @@ me mwa kɑ̃ ʒ-ə=tjɛ̃ tjɛ̃ me mwa kɑ̃ ʒ-ə=tjɛ̃ la dɑ̃ m-e dø mɛ�
 #EXM;Il a vu manque d'amour, manque d'argent, comme la vie c'est détergeant et comme ça nettoie les gens.
 il=a vy mɑ̃k d=amuʁ mɑ̃k d=aʁʒɑ̃ kɔm l-a vi s=e detɛʁʒɑ̃ e kɔm sa netwa l-e ʒɑ̃
 --.*(&& vy mɑ̃k &&amuʁ mɑ̃k &&aʁʒɑ̃ && vi && detɛʁʒɑ̃ && ʒɑ̃).*#Il y a au moins huit mots faciles à identifier : cinq noms, un participe passé et un adjectif.
---.*(&& d(-|=)?amuʁ && d(-|=)?aʁʒɑ̃ && kɔm l-?a && e kɔm && l-?e ).*#Attention aux prépositions, aux déterminants et aux conjonctions, notamment celles qui sont clitiques sur le mot suivant.
+--.*(&& d(-|=)?amuʁ && d(-|=)?aʁʒɑ̃ kɔm l-?a && e kɔm && l-?e ).*#Attention aux prépositions, aux déterminants et aux conjonctions, notamment celles qui sont clitiques sur le mot suivant.
 --.*(&& kɔm l-a && l-e ).*#Attention aux marques d'accord sur les déterminants.
 --.*(&& d=amuʁ && d=aʁʒɑ̃ ).*#Attention aux prépositions clitiques.
 --.*(&&il(-|=)?a && s(-|=)?e ).*#Attention aux clitiques sujets qui ne forme qu'un seul mot avec le verbe conjugué.

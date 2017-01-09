@@ -107,7 +107,7 @@ dɑ̃ tɔ̃n otomobil tu le dø ɔ̃səʁa bjɛ̃
 e dɑ̃ lə sjɛl iljoʁa dez etwal
 --.*(&& sjɛl && etwal).*#Il y a au moins deux mots simples faciles à identifier : deux noms.
 --.*(&& lə && dez ).*#Attention aux déterminants.
---.*(&&e && dɑ̃ ).*#Attention à la conjonction et à la préposition.
+--.*(&&e dɑ̃ ).*#Attention à la conjonction et à la préposition.
 --.*joʁa .*#Attention au clitique figé qui forme un seul mot avec le verbe conjugué.
 --.* iljoʁa .*#Attention au clitique sujet qui forme un seul mot avec le verbe conjugué.
 
@@ -120,7 +120,7 @@ e dy solɛj kɑ̃t ɔ̃mɛtʁa le vwal
 
 #EXM;On s'en ira toute la vie danser le Calypso en Italie.
 ɔ̃sɑ̃niʁa tut la vi dɑ̃se lə kalipso ɑ̃n itali
---.*(&& vi && dɑ̃se && itali).*#Il y a au moins trois mots simples faciles à identifier : deux noms et un verbe.
+--.*(&& vi dɑ̃se && itali).*#Il y a au moins trois mots simples faciles à identifier : deux noms et un verbe.
 --.*(&& la && lə && kalipso).*#Attention à l'emprunt et aux déterminants.
 --.*ɑ̃niʁa .*#Attention au clitique figé qui forme un seul mot avec le verbe conjugué.
 --.*sɑ̃niʁa .*#Attention au clitique réfléchi qui forme un seul mot avec le verbe conjugué.
