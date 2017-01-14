@@ -121,7 +121,7 @@ e dy solɛj kɑ̃t ɔ̃mɛtʁa le vwal
 #EXM;On s'en ira toute la vie danser le Calypso en Italie.
 ɔ̃sɑ̃niʁa tut la vi dɑ̃se lə kalipso ɑ̃n itali
 --.*(&& vi dɑ̃se && itali).*#Il y a au moins trois mots simples faciles à identifier : deux noms et un verbe.
---.*(&& la && lə && kalipso).*#Attention à l'emprunt et aux déterminants.
+--.*(&& la && lə kalipso).*#Attention à l'emprunt et aux déterminants.
 --.*ɑ̃niʁa .*#Attention au clitique figé qui forme un seul mot avec le verbe conjugué.
 --.*sɑ̃niʁa .*#Attention au clitique réfléchi qui forme un seul mot avec le verbe conjugué.
 --ɔ̃sɑ̃niʁa .*#Attention au clitique sujet qui forme un seul mot avec le verbe conjugué.

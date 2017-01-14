@@ -178,7 +178,7 @@ e d-y solɛj kɑ̃-t ɔ̃=mɛt-ʁa l-e vwal
 #EXM;On s'en ira toute la vie danser le Calypso en Italie.
 ɔ̃=s=ɑ̃-n=i-ʁa tu-t l-a vi dɑ̃s-e l-ə kalipso ɑ̃-n itali
 --.*(&& vi dɑ̃s-?e && itali).*#Il y a au moins trois mots simples faciles à identifier : deux noms et un verbe.
---.*(&& l-?a && l-?ə && kalipso).*#Attention à l'emprunt et aux déterminants.
+--.*(&& l-?a && l-?ə kalipso).*#Attention à l'emprunt et aux déterminants.
 --.*(&& l-a && l-ə ).*#Attention aux marques d'accord sur les déterminants.
 --.*(&& tu-t && dɑ̃s-e ).*#Attention à la marque de l'infinitif et à l'accord sur le quantifieur.
 --.*i-ʁa .*#Considérez la marque du futur comme un morphe.
