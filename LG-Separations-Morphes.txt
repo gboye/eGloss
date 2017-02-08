@@ -295,9 +295,9 @@ ful sɑ̃timɑ̃tal il=fo vwa-ʁ kɔm ɔ̃=nu=paʁl
 #EXM;Il se dégage de ces cartons d'emballage des gens lavés, hors d'usage.
 il=s-ə=degaʒ də s-e kaʁtɔ̃ d=ɑ̃balaʒ d-e ʒɑ̃ lav-e ɔʁ d=yzaʒ
 --.*(&& kaʁtɔ̃ && ʒɑ̃ lav-?e ).*#Il y a au moins trois mots faciles à identifier : deux noms et un participe passé.
---.*(&& də s-?e && d(-|=)?ɑ̃balaʒ d-e ʒɑ̃ && ɔʁ d(-|=)?yzaʒ).*#Attention aux prépositions et aux déterminants, notamment celles qui sont clitiques sur le mot suivant.
---.*(&& də s-e && d-e ʒɑ̃ ).*#Attention aux marques d'accord des déterminants.
---.*(&& d=ɑ̃balaʒ && d=yzaʒ).*#Attention à la notation des prépositions qui sont clitiques sur le mot suivant.
+--.*(&& d-?ə s-?e && d(-|=)?ɑ̃balaʒ d-e ʒɑ̃ && ɔʁ d(-|=)?yzaʒ).*#Attention aux prépositions et aux déterminants, notamment celles qui sont clitiques sur le mot suivant.
+--.*(&& d-?ə s-e && d-e ʒɑ̃ ).*#Attention aux marques d'accord des déterminants.
+--.*(&& də && d=ɑ̃balaʒ && d=yzaʒ).*#Attention à la notation des prépositions notamment celles qui sont clitiques sur le mot suivant.
 --.*il(-|=)?s-?ə(-|=)?degaʒ .*#Attention aux clitiques objet et sujet qui ne forment qu'un seul mot avec le verbe conjugué.
 --.*il=s-ə=degaʒ .*#Attention à la notation des clitiques objet et sujet.
 
